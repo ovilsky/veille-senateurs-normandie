@@ -1,1 +1,35 @@
 
+name: Veille sénateurs normands - test manuel
+
+# Se lance uniquement quand on clique sur "Run workflow" dans l'onglet
+# Actions de GitHub (pas de déclenchement automatique pour l'instant :
+# on valide d'abord que tout marche avant de programmer une fréquence).
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le contenu du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Lancer les tests hors-ligne (aucun accès réseau requis)
+        run: python3 test_parsing_offline.py
+
+      - name: Lancer le vrai scraping (accès à senat.fr)
+        run: python3 fetch_activite_senateurs.py
+
+      - name: Sauvegarder le résultat (téléchargeable depuis cette page)
+        uses: actions/upload-artifact@v4
+        with:
+          name: activite-senateurs-data
+          path: activite-senateurs-data.json
