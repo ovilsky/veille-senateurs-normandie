@@ -96,6 +96,13 @@ SLUG_INDEX = {s["slug"]: s for s in SENATEURS}
 def get(url):
     resp = requests.get(url, headers=HEADERS, timeout=20)
     resp.raise_for_status()
+    # IMPORTANT : le serveur du Sénat ne déclare pas toujours un charset
+    # explicite dans l'en-tête Content-Type, ce qui pousse `requests` à
+    # deviner l'encodage (souvent à tort, ce qui corrompt tous les
+    # caractères accentués : "publiée" devient "publiÃ©e", et casse au
+    # passage toutes les regex qui cherchent des mots accentués).
+    # Le site étant en UTF-8, on le force explicitement.
+    resp.encoding = "utf-8"
     return BeautifulSoup(resp.text, "html.parser")
 
 
