@@ -96,51 +96,57 @@ PROPOSITION_LINK_RE = re.compile(r"/dossier-legislatif/(ppl|ppr)[\w-]*\.html$")
 
 def parse_propositions_page(soup, senateur, seen_urls):
     """
-    Parcourt le document dans l'ordre, en gardant trace de la section
-    courante (auteur / cosignataire) au fur et à mesure qu'on croise les
-    titres de section, et en traitant chaque lien de proposition rencontré.
+    Repère chaque proposition via son lien (fiable), puis détermine le
+    rôle (auteur/cosignataire) et la date à partir du texte aplati de la
+    page plutôt que de balises précises (h2/li...) : on ne sait pas quelle
+    structure HTML exacte utilise senat.fr, donc on évite d'en dépendre.
+
+    Principe : la page contient toujours la phrase "... est l'auteur"
+    avant la liste des propositions dont il est auteur, et "...est
+    cosignataire" avant celles dont il est cosignataire. On repère la
+    position de cette deuxième phrase dans le texte, et tout lien situé
+    après cette position est un "cosignataire", tout lien avant est un
+    "auteur".
     """
     results = []
-    current_role = None
+    full_text = re.sub(r"\s+", " ", soup.get_text(" "))
 
-    for el in soup.find_all(["h2", "h3", "a"]):
-        if el.name in ("h2", "h3") and el.find("a") is None:
-            heading_text = el.get_text(" ", strip=True).lower()
-            if "auteur" in heading_text and "cosignataire" not in heading_text:
-                current_role = "auteur"
-            elif "cosignataire" in heading_text:
-                current_role = "cosignataire"
+    cosign_match = re.search(r"est\s+cosignataire", full_text, re.I)
+    cosign_pos = cosign_match.start() if cosign_match else None
+
+    cursor = 0
+    for link in soup.find_all("a", href=PROPOSITION_LINK_RE):
+        href = link["href"]
+        url = absolute_url(href)
+        if url in seen_urls:
             continue
 
-        if el.name == "a":
-            href = el.get("href", "")
-            if not PROPOSITION_LINK_RE.search(href):
-                continue
-            url = absolute_url(href)
-            if url in seen_urls:
-                continue
+        titre = link.get_text(" ", strip=True)
+        if not titre:
+            continue
 
-            titre = el.get_text(" ", strip=True)
-            if not titre:
-                continue
+        pos = full_text.find(titre, cursor)
+        if pos == -1:
+            pos = full_text.find(titre)  # repli : recherche depuis le début
+        role = "cosignataire" if (cosign_pos is not None and pos != -1 and pos > cosign_pos) else "auteur"
 
-            # Repli : la date suit le lien, souvent dans le même conteneur.
-            container = el.find_parent(["li", "dd", "div", "p"]) or el.parent
-            container_text = container.get_text(" ", strip=True) if container else ""
-            after_title = container_text.split(titre, 1)[-1] if titre in container_text else container_text
-            date_publication = parse_french_date(after_title)
+        after = full_text[pos + len(titre): pos + len(titre) + 60] if pos != -1 else ""
+        date_depot = parse_french_date(after)
 
-            seen_urls.add(url)
-            results.append({
-                "type": "proposition_de_loi",
-                "titre": titre,
-                "role": current_role or "inconnu",  # ne devrait pas arriver si la page est bien formée
-                "senateur_slug": senateur["slug"],
-                "senateur_nom": senateur["nom"],
-                "senateur_dept": senateur["dept"],
-                "date_depot": date_publication,
-                "url": url,
-            })
+        if pos != -1:
+            cursor = pos + len(titre)
+
+        seen_urls.add(url)
+        results.append({
+            "type": "proposition_de_loi",
+            "titre": titre,
+            "role": role,
+            "senateur_slug": senateur["slug"],
+            "senateur_nom": senateur["nom"],
+            "senateur_dept": senateur["dept"],
+            "date_depot": date_depot,
+            "url": url,
+        })
 
     return results
 
@@ -170,87 +176,99 @@ SYNTHESE_SUFFIX_RE = re.compile(r"-syn\.pdf$")
 
 SECTION_INFO_RE = re.compile(r"rapports?\s+d.information", re.I)
 SECTION_LEGISLATIF_RE = re.compile(r"rapports?\s+l[ée]gislatifs?", re.I)
-COMMISSION_RE = re.compile(r"de la (commission|d[ée]l[ée]gation)[^\n]*", re.I)
+# Le texte étant aplati (plus de retours à la ligne pour délimiter), on
+# borne la capture à 90 caractères et on s'arrête dès qu'on croise un mot
+# commençant par une majuscule précédé d'un espace (le titre qui suit
+# commence toujours par une majuscule) — sinon [^\n]* engloutirait le
+# titre entier faute de retour à la ligne pour l'arrêter.
+COMMISSION_RE = re.compile(
+    r"de la (?:[Cc]ommission|[Dd][ée]l[ée]gation)\b.{0,90}?(?=\s+[A-ZÀ-ÜÉÈÊËÎÏ]|$)"
+)
 
 
 def parse_rapports_page(soup, senateur, seen_urls):
+    """
+    Repère chaque rapport via son lien type+numéro (fiable, et jamais un
+    lien de synthèse -syn.pdf), puis retrouve commission/titre/catégorie/
+    date à partir du texte aplati de la page autour de ce lien — même
+    principe que parse_propositions_page : on ne suppose aucune balise
+    HTML précise.
+    """
     results = []
-    current_type = None  # "information" ou "legislatif"
+    full_text = re.sub(r"\s+", " ", soup.get_text(" "))
 
-    # On avance dans le document dans l'ordre en gardant trace :
-    # - de la section courante (info / législatif)
-    # - du dernier titre (h3/h4) rencontré, qui précède toujours les liens
-    #   de son entrée
-    # - de la dernière mention de commission/délégation rencontrée
-    last_heading_text = None
-    last_commission = None
+    # On repère TOUTES les occurrences des titres de section (le texte
+    # d'introduction de la page contient souvent une phrase du type "la
+    # liste des rapports d'information et des rapports législatifs", qui
+    # matcherait aussi les deux motifs si on ne prenait que la première
+    # occurrence — d'où l'utilisation d'un repère "le plus récent avant
+    # ce lien" plutôt qu'une simple position unique).
+    section_markers = []
+    for m in SECTION_INFO_RE.finditer(full_text):
+        section_markers.append((m.start(), "information"))
+    for m in SECTION_LEGISLATIF_RE.finditer(full_text):
+        section_markers.append((m.start(), "legislatif"))
+    section_markers.sort()
 
-    for el in soup.find_all(["h2", "h3", "h4", "li", "p", "div", "a"], recursive=True):
-        text = el.get_text(" ", strip=True) if el.name != "a" else None
+    def categorie_for_pos(pos):
+        cat = None
+        for marker_pos, marker_cat in section_markers:
+            if marker_pos < pos:
+                cat = marker_cat
+            else:
+                break
+        return cat
 
-        if el.name in ("h2",) and text:
-            if SECTION_INFO_RE.search(text):
-                current_type = "information"
-                continue
-            if SECTION_LEGISLATIF_RE.search(text):
-                current_type = "legislatif"
-                continue
-
-        if el.name in ("h3", "h4") and text:
-            # Un titre de rapport n'est normalement pas un lien lui-même
-            # (le lien est sur la ligne "type + numéro" juste en dessous).
-            last_heading_text = text
+    cursor = 0
+    for link in soup.find_all("a", href=RAPPORT_LINK_RE):
+        href = link["href"]
+        if SYNTHESE_SUFFIX_RE.search(href):
+            continue
+        url = absolute_url(href)
+        if url in seen_urls:
             continue
 
-        if el.name in ("li", "p", "div") and text and COMMISSION_RE.search(text) and len(text) < 120:
-            # Ligne courte du type "de la commission des finances" : on
-            # limite la longueur pour éviter de capter un gros bloc de
-            # texte contenant accidentellement "de la commission" ailleurs.
-            m = COMMISSION_RE.search(text)
-            last_commission = m.group(0)
+        type_numero = link.get_text(" ", strip=True)
+        if not type_numero:
             continue
 
-        if el.name == "a":
-            href = el.get("href", "")
-            if not RAPPORT_LINK_RE.search(href) or SYNTHESE_SUFFIX_RE.search(href):
-                continue
-            url = absolute_url(href)
-            if url in seen_urls or last_heading_text is None:
-                continue
+        pos = full_text.find(type_numero, cursor)
+        if pos == -1:
+            pos = full_text.find(type_numero)
+        if pos == -1:
+            continue  # texte du lien introuvable dans le texte aplati : cas limite, on ignore
 
-            type_numero = el.get_text(" ", strip=True)
+        categorie = categorie_for_pos(pos)
 
-            # Important : on cherche l'ancêtre <li> (l'entrée entière),
-            # pas seulement le <p> immédiat qui contient le lien — sinon
-            # la date, qui est dans un <p> voisin, n'est jamais trouvée.
-            container = (
-                el.find_parent("li")
-                or el.find_parent(["dd", "div"])
-                or el.find_parent("p")
-                or el.parent
-            )
-            container_text = container.get_text(" ", strip=True) if container else ""
-            date_publication = find_date_ddmmyyyy(container_text)
+        before = full_text[max(0, pos - 300):pos]
+        after = full_text[pos + len(type_numero): pos + len(type_numero) + 150]
 
-            seen_urls.add(url)
-            results.append({
-                "type": "rapport",
-                "categorie": current_type or "inconnue",
-                "commission": last_commission,
-                "titre": last_heading_text,
-                "type_numero": type_numero,
-                "senateur_slug": senateur["slug"],
-                "senateur_nom": senateur["nom"],
-                "senateur_dept": senateur["dept"],
-                "date_publication": date_publication,
-                "url": url,
-            })
-            # Une fois l'entrée traitée, on évite de la réutiliser pour un
-            # deuxième lien (ex. lien de synthèse déjà exclu, mais aussi
-            # pour un éventuel deuxième lien de texte) tant qu'on n'a pas
-            # vu un nouveau titre.
-            last_heading_text = None
-            last_commission = None
+        commission_matches = list(COMMISSION_RE.finditer(before))
+        commission = commission_matches[-1].group(0) if commission_matches else None
+
+        # Le titre est le texte entre la commission (si trouvée, sinon le
+        # début de la fenêtre) et le lien lui-même.
+        titre_zone = before[commission_matches[-1].end():] if commission_matches else before
+        titre = re.sub(r"^\s*\d+\.\s*", "", titre_zone).strip(" .")
+        if not titre:
+            titre = None
+
+        date_publication = find_date_ddmmyyyy(after)
+
+        cursor = pos + len(type_numero)
+        seen_urls.add(url)
+        results.append({
+            "type": "rapport",
+            "categorie": categorie,
+            "commission": commission,
+            "titre": titre,
+            "type_numero": type_numero,
+            "senateur_slug": senateur["slug"],
+            "senateur_nom": senateur["nom"],
+            "senateur_dept": senateur["dept"],
+            "date_publication": date_publication,
+            "url": url,
+        })
 
     return results
 
