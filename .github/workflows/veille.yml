@@ -25,12 +25,27 @@ jobs:
         run: |
           python3 test_parsing_offline.py
           python3 test_parsing_rapports_offline.py
+          python3 test_parsing_votes_offline.py
 
       - name: Lancer le téléchargement des questions écrites (Open Data du Sénat)
         run: python3 fetch_activite_senateurs.py
 
       - name: Lancer le scraping des rapports et propositions de loi (accès à senat.fr)
         run: python3 fetch_rapports_propositions.py
+
+      # Diagnostic : affiche les vraies colonnes des fichiers sources de
+      # NosParlementaires.fr dans les logs, pour vérifier/ajuster le
+      # script si besoin (schéma non confirmé à l'avance, voir le
+      # commentaire en tête de fetch_positions_vote.py).
+      - name: Diagnostic positions de vote (colonnes réelles)
+        run: python3 fetch_positions_vote.py --inspect
+
+      # continue-on-error : le schéma réel n'a pas pu être vérifié avant
+      # ce premier run, mieux vaut que les 2 autres catégories restent
+      # disponibles dans l'artifact même si celle-ci échoue encore.
+      - name: Lancer le téléchargement des positions de vote
+        continue-on-error: true
+        run: python3 fetch_positions_vote.py
 
       - name: Sauvegarder les résultats (téléchargeables depuis cette page)
         uses: actions/upload-artifact@v4
@@ -39,3 +54,5 @@ jobs:
           path: |
             activite-senateurs-data.json
             rapports-propositions-senateurs-data.json
+            positions-vote-senateurs-data.json
+          if-no-files-found: warn
