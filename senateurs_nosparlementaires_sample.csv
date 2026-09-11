@@ -1,0 +1,5 @@
+slug,first_name,last_name,full_name,group_short,group_label,department_code,department_label,active
+herve-maurey,Hervé,Maurey,Hervé Maurey,UC,Union Centriste,27,Eure,True
+corinne-feret,Corinne,Féret,Corinne Féret,SER,Socialiste Écologiste et Républicain,14,Calvados,True
+jean-durand,Jean,Durand,Jean Durand,LR,Les Républicains,69,Rhône,True
+herve-maurey-ancien,Hervé,Maurey,Hervé Maurey (mandat précédent),UC,Union Centriste,27,Eure,False
