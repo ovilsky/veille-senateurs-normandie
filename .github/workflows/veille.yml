@@ -1,10 +1,20 @@
-name: Veille sénateurs normands - test manuel
+name: Veille sénateurs normands
 
-# Se lance uniquement quand on clique sur "Run workflow" dans l'onglet
-# Actions de GitHub (pas de déclenchement automatique pour l'instant :
-# on valide d'abord que tout marche avant de programmer une fréquence).
+# Deux façons de se déclencher :
+#   - manuellement, avec le bouton "Run workflow" dans l'onglet Actions
+#   - automatiquement, chaque lundi matin (voir "schedule" ci-dessous)
+# Pour changer la fréquence, modifiez la ligne "cron" — chaque champ est
+# minute(0-59) heure(0-23,UTC) jour-du-mois jour-de-la-semaine(0=dimanche).
+# Un outil pratique pour composer une expression cron : https://crontab.guru
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"   # tous les lundis à 06h00 UTC (≈ 7h ou 8h à Paris selon la saison)
+
+# Nécessaire pour que le workflow puisse recommiter les fichiers de
+# données dans le dépôt (sinon le site ne peut pas les lire).
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -40,19 +50,37 @@ jobs:
       - name: Diagnostic positions de vote (colonnes réelles)
         run: python3 fetch_positions_vote.py --inspect
 
-      # continue-on-error : le schéma réel n'a pas pu être vérifié avant
-      # ce premier run, mieux vaut que les 2 autres catégories restent
-      # disponibles dans l'artifact même si celle-ci échoue encore.
+      # continue-on-error : si NosParlementaires.fr change son schéma un
+      # jour, mieux vaut que les 2 autres catégories restent à jour quand
+      # même plutôt que tout le run échoue.
       - name: Lancer le téléchargement des positions de vote
         continue-on-error: true
         run: python3 fetch_positions_vote.py
+
+      # Range les 3 fichiers dans data/ (c'est ce dossier que le site
+      # index.html va lire). Le || true sur positions-vote tolère le cas
+      # où cette catégorie a échoué (fichier absent) sans casser le run.
+      - name: Ranger les fichiers de données
+        run: |
+          mkdir -p data
+          mv activite-senateurs-data.json data/ || true
+          mv rapports-propositions-senateurs-data.json data/ || true
+          mv positions-vote-senateurs-data.json data/ || true
 
       - name: Sauvegarder les résultats (téléchargeables depuis cette page)
         uses: actions/upload-artifact@v4
         with:
           name: donnees-senateurs
-          path: |
-            activite-senateurs-data.json
-            rapports-propositions-senateurs-data.json
-            positions-vote-senateurs-data.json
+          path: data/
           if-no-files-found: warn
+
+      # Recommite les fichiers dans le dépôt, pour que le site (GitHub
+      # Pages) serve toujours la dernière version. "diff --staged --quiet"
+      # évite un commit vide si rien n'a changé depuis le dernier run.
+      - name: Publier les données mises à jour dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des données de veille"
+          git push
