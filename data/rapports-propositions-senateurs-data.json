@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:57:04.827652",
+  "generated_at": "2026-09-19T09:21:41.847128",
   "propositions_de_loi": [
     {
       "type": "proposition_de_loi",
@@ -283,16 +283,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à mieux inscrire l'intercommunalité dans une logique de partenariat des territoires",
-      "role": "cosignataire",
-      "senateur_slug": "de_la_provote_sonia19735d",
-      "senateur_nom": "Sonia de La Provôté",
-      "senateur_dept": "Calvados",
-      "date_depot": "01/07/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-841.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi constitutionnelle visant à garantir la compensation financière des transferts de compétences et des décisions de l'État qui aggravent les charges des collectivités territoriales",
       "role": "cosignataire",
       "senateur_slug": "de_la_provote_sonia19735d",
@@ -300,6 +290,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "01/07/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-823.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à mieux inscrire l'intercommunalité dans une logique de partenariat des territoires",
+      "role": "cosignataire",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_depot": "01/07/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-841.html"
     },
     {
       "type": "proposition_de_loi",
@@ -473,16 +473,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
-      "role": "auteur",
-      "senateur_slug": "de_la_provote_sonia19735d",
-      "senateur_nom": "Sonia de La Provôté",
-      "senateur_dept": "Calvados",
-      "date_depot": "07/10/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-011.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
       "role": "auteur",
       "senateur_slug": "de_la_provote_sonia19735d",
@@ -490,6 +480,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "07/10/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-010.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+      "role": "auteur",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_depot": "07/10/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-011.html"
     },
     {
       "type": "proposition_de_loi",
@@ -683,16 +683,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à retirer les produits du bois de la responsabilité élargie du producteur produits et matériaux de construction du secteur du bâtiment (PMCB)",
-      "role": "cosignataire",
-      "senateur_slug": "de_la_provote_sonia19735d",
-      "senateur_nom": "Sonia de La Provôté",
-      "senateur_dept": "Calvados",
-      "date_depot": "15/01/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-242.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à faciliter la mobilité des chiens d'assistance accompagnant les militaires en état de stress post-traumatique",
       "role": "cosignataire",
       "senateur_slug": "de_la_provote_sonia19735d",
@@ -700,6 +690,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "15/01/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-241.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à retirer les produits du bois de la responsabilité élargie du producteur produits et matériaux de construction du secteur du bâtiment (PMCB)",
+      "role": "cosignataire",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_depot": "15/01/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-242.html"
     },
     {
       "type": "proposition_de_loi",
@@ -833,16 +833,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à sauvegarder les conseils d'architecture, d'urbanisme et de l'environnement (CAUE)",
-      "role": "cosignataire",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_depot": "01/07/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-822.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à mieux inscrire l'intercommunalité dans une logique de partenariat des territoires",
       "role": "cosignataire",
       "senateur_slug": "feret_corinne14281w",
@@ -850,6 +840,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "01/07/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-841.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à sauvegarder les conseils d'architecture, d'urbanisme et de l'environnement (CAUE)",
+      "role": "cosignataire",
+      "senateur_slug": "feret_corinne14281w",
+      "senateur_nom": "Corinne Féret",
+      "senateur_dept": "Calvados",
+      "date_depot": "01/07/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-822.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1023,16 +1023,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à favoriser une meilleure répartition de l'écofiscalité au bénéfice des collectivités territoriales",
-      "role": "cosignataire",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_depot": "13/11/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-123.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à réserver la vente de protoxyde d'azote aux seuls professionnels",
       "role": "cosignataire",
       "senateur_slug": "feret_corinne14281w",
@@ -1040,6 +1030,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "13/11/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-125.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à favoriser une meilleure répartition de l'écofiscalité au bénéfice des collectivités territoriales",
+      "role": "cosignataire",
+      "senateur_slug": "feret_corinne14281w",
+      "senateur_nom": "Corinne Féret",
+      "senateur_dept": "Calvados",
+      "date_depot": "13/11/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-123.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1073,16 +1073,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à clarifier et à sécuriser le rôle des collaborateurs de cabinet en collectivité territoriale",
-      "role": "cosignataire",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_depot": "18/07/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-861.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à instaurer un mécanisme contraignant de régulation carcérale",
       "role": "cosignataire",
       "senateur_slug": "feret_corinne14281w",
@@ -1090,6 +1080,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "18/07/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-862.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à clarifier et à sécuriser le rôle des collaborateurs de cabinet en collectivité territoriale",
+      "role": "cosignataire",
+      "senateur_slug": "feret_corinne14281w",
+      "senateur_nom": "Corinne Féret",
+      "senateur_dept": "Calvados",
+      "date_depot": "18/07/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-861.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1333,16 +1333,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à encadrer l'utilisation de véhicules surpuissants par des conducteurs inexpérimentés",
-      "role": "cosignataire",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_depot": "11/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-325.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à aménager le délit de non-représentation d'enfant",
       "role": "cosignataire",
       "senateur_slug": "feret_corinne14281w",
@@ -1350,6 +1340,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "11/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-327.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à encadrer l'utilisation de véhicules surpuissants par des conducteurs inexpérimentés",
+      "role": "cosignataire",
+      "senateur_slug": "feret_corinne14281w",
+      "senateur_nom": "Corinne Féret",
+      "senateur_dept": "Calvados",
+      "date_depot": "11/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-325.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1443,16 +1443,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à instaurer une meilleure proportionnalité des effectifs des conseils municipaux pour les petites communes",
-      "role": "cosignataire",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_depot": "13/11/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-139.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à favoriser la parité au sein des exécutifs des intercommunalités",
       "role": "cosignataire",
       "senateur_slug": "feret_corinne14281w",
@@ -1460,6 +1450,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "13/11/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-136.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à instaurer une meilleure proportionnalité des effectifs des conseils municipaux pour les petites communes",
+      "role": "cosignataire",
+      "senateur_slug": "feret_corinne14281w",
+      "senateur_nom": "Corinne Féret",
+      "senateur_dept": "Calvados",
+      "date_depot": "13/11/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-139.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1773,16 +1773,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
-      "role": "cosignataire",
-      "senateur_slug": "duranton_nicole14249w",
-      "senateur_nom": "Nicole Duranton",
-      "senateur_dept": "Eure",
-      "date_depot": "07/10/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-011.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
       "role": "cosignataire",
       "senateur_slug": "duranton_nicole14249w",
@@ -1790,6 +1780,16 @@
       "senateur_dept": "Eure",
       "date_depot": "07/10/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-010.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+      "role": "cosignataire",
+      "senateur_slug": "duranton_nicole14249w",
+      "senateur_nom": "Nicole Duranton",
+      "senateur_dept": "Eure",
+      "date_depot": "07/10/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-011.html"
     },
     {
       "type": "proposition_de_loi",
@@ -2583,16 +2583,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à garantir la prééminence des principes républicains",
-      "role": "cosignataire",
-      "senateur_slug": "pluchet_kristina20118y",
-      "senateur_nom": "Kristina Pluchet",
-      "senateur_dept": "Eure",
-      "date_depot": "07/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-318.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi constitutionnelle visant à garantir la prééminence des lois de la République",
       "role": "cosignataire",
       "senateur_slug": "pluchet_kristina20118y",
@@ -2600,6 +2590,16 @@
       "senateur_dept": "Eure",
       "date_depot": "07/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-317.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à garantir la prééminence des principes républicains",
+      "role": "cosignataire",
+      "senateur_slug": "pluchet_kristina20118y",
+      "senateur_nom": "Kristina Pluchet",
+      "senateur_dept": "Eure",
+      "date_depot": "07/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-318.html"
     },
     {
       "type": "proposition_de_loi",
@@ -3523,16 +3523,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété",
-      "role": "cosignataire",
-      "senateur_slug": "gosselin_beatrice20180f",
-      "senateur_nom": "Béatrice Gosselin",
-      "senateur_dept": "Manche",
-      "date_depot": "11/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-328.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
       "role": "cosignataire",
       "senateur_slug": "gosselin_beatrice20180f",
@@ -3540,6 +3530,16 @@
       "senateur_dept": "Manche",
       "date_depot": "11/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-324.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété",
+      "role": "cosignataire",
+      "senateur_slug": "gosselin_beatrice20180f",
+      "senateur_nom": "Béatrice Gosselin",
+      "senateur_dept": "Manche",
+      "date_depot": "11/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-328.html"
     },
     {
       "type": "proposition_de_loi",
@@ -3563,16 +3563,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi créant une condition de durée de résidence pour le versement de certaines prestations sociales",
-      "role": "cosignataire",
-      "senateur_slug": "gosselin_beatrice20180f",
-      "senateur_nom": "Béatrice Gosselin",
-      "senateur_dept": "Manche",
-      "date_depot": "03/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-299.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d'une particulière gravité et présentant de forts risques de récidive",
       "role": "cosignataire",
       "senateur_slug": "gosselin_beatrice20180f",
@@ -3580,6 +3570,16 @@
       "senateur_dept": "Manche",
       "date_depot": "03/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-298.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi créant une condition de durée de résidence pour le versement de certaines prestations sociales",
+      "role": "cosignataire",
+      "senateur_slug": "gosselin_beatrice20180f",
+      "senateur_nom": "Béatrice Gosselin",
+      "senateur_dept": "Manche",
+      "date_depot": "03/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-299.html"
     },
     {
       "type": "proposition_de_loi",
@@ -4623,6 +4623,16 @@
     },
     {
       "type": "proposition_de_loi",
+      "titre": "Proposition de loi portant simplification des moyens de paiement des dépenses courantes mis à disposition des élus locaux",
+      "role": "auteur",
+      "senateur_slug": "goulet_nathalie07004j",
+      "senateur_nom": "Nathalie Goulet",
+      "senateur_dept": "Orne",
+      "date_depot": "16/09/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-954.html"
+    },
+    {
+      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à renforcer la lutte contre la fraude en matière d'état civil",
       "role": "auteur",
       "senateur_slug": "goulet_nathalie07004j",
@@ -4853,16 +4863,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de résolution en application de l'article 34-1 de la Constitution, relative aux financements européens d'entités en lien avec les Frères musulmans et l'islam radical",
-      "role": "auteur",
-      "senateur_slug": "goulet_nathalie07004j",
-      "senateur_nom": "Nathalie Goulet",
-      "senateur_dept": "Orne",
-      "date_depot": "23/10/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppr24-073.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi sur l'amélioration de la cohérence du traitement pénal des étrangers en situation irrégulière",
       "role": "auteur",
       "senateur_slug": "goulet_nathalie07004j",
@@ -4870,6 +4870,16 @@
       "senateur_dept": "Orne",
       "date_depot": "23/10/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-075.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de résolution en application de l'article 34-1 de la Constitution, relative aux financements européens d'entités en lien avec les Frères musulmans et l'islam radical",
+      "role": "auteur",
+      "senateur_slug": "goulet_nathalie07004j",
+      "senateur_nom": "Nathalie Goulet",
+      "senateur_dept": "Orne",
+      "date_depot": "23/10/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppr24-073.html"
     },
     {
       "type": "proposition_de_loi",
@@ -5683,16 +5693,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi relative à la reconnaissance du transport touristique cyclable",
-      "role": "auteur",
-      "senateur_slug": "canayer_agnes14053l",
-      "senateur_nom": "Agnès Canayer",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "21/03/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-474.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à compléter les dispositions applicables aux territoires littoraux et à renforcer l'équilibre entre l'aménagement et la préservation de la nature, des paysages et des sites",
       "role": "auteur",
       "senateur_slug": "canayer_agnes14053l",
@@ -5700,6 +5700,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "21/03/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-473.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi relative à la reconnaissance du transport touristique cyclable",
+      "role": "auteur",
+      "senateur_slug": "canayer_agnes14053l",
+      "senateur_nom": "Agnès Canayer",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "21/03/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-474.html"
     },
     {
       "type": "proposition_de_loi",
@@ -5943,16 +5953,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété",
-      "role": "cosignataire",
-      "senateur_slug": "canayer_agnes14053l",
-      "senateur_nom": "Agnès Canayer",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "11/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-328.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
       "role": "cosignataire",
       "senateur_slug": "canayer_agnes14053l",
@@ -5960,6 +5960,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "11/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-324.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété",
+      "role": "cosignataire",
+      "senateur_slug": "canayer_agnes14053l",
+      "senateur_nom": "Agnès Canayer",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "11/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-328.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6103,16 +6113,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à interdire l'utilisation de la métatine dans les produits dérivés du tabac, les produits de vapotage et les sachets oraux",
-      "role": "cosignataire",
-      "senateur_slug": "chauvet_patrick20144b",
-      "senateur_nom": "Patrick Chauvet",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "04/06/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-688.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi relative à la recherche successorale",
       "role": "cosignataire",
       "senateur_slug": "chauvet_patrick20144b",
@@ -6120,6 +6120,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "04/06/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-700.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à interdire l'utilisation de la métatine dans les produits dérivés du tabac, les produits de vapotage et les sachets oraux",
+      "role": "cosignataire",
+      "senateur_slug": "chauvet_patrick20144b",
+      "senateur_nom": "Patrick Chauvet",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "04/06/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-688.html"
     },
     {
       "type": "proposition_de_loi",
