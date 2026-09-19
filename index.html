@@ -206,6 +206,121 @@
   .rr-extra{ font-size: 0.8rem; color: var(--ink-faint); margin-top: 0.3rem; }
   .rr-main a.rr-link{ font-size: 0.8rem; }
 
+  /* ---------- Scrutins (cartes de vote) ---------- */
+
+  .scrutin-card{
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.1rem 1.3rem 1.3rem;
+    margin-bottom: 1.1rem;
+  }
+  .scrutin-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.3rem;
+  }
+  .scrutin-date{
+    font-size: 0.76rem;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .scrutin-card h3{
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 1.12rem;
+    margin: 0.15rem 0 0.5rem;
+    line-height: 1.35;
+  }
+  .scrutin-result{
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    margin-bottom: 0.9rem;
+  }
+  .scrutin-result a{ font-size: 0.82rem; }
+
+  .vote-chart{ margin-bottom: 1rem; }
+  .vote-chart-label{
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.35rem;
+  }
+  .vote-chart-bar{
+    display: flex;
+    width: 100%;
+    height: 0.85rem;
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--rule);
+    border: 1px solid var(--rule-strong);
+  }
+  .vc-seg{ height: 100%; }
+  .vc-seg.vc-pour{ background: var(--blue); }
+  .vc-seg.vc-contre{ background: var(--brick); }
+  .vc-seg.vc-abstention{ background: var(--gold); }
+  .vote-chart-legend{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.5rem;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+  }
+  .vc-dot{
+    display: inline-block;
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    margin-right: 0.35rem;
+    vertical-align: middle;
+  }
+  .vc-dot.vc-pour{ background: var(--blue); }
+  .vc-dot.vc-contre{ background: var(--brick); }
+  .vc-dot.vc-abstention{ background: var(--gold); }
+
+  .vote-list{
+    border-top: 1px solid var(--rule);
+    padding-top: 0.7rem;
+  }
+  .vote-list-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.7rem;
+    flex-wrap: wrap;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--rule);
+    font-size: 0.86rem;
+  }
+  .vote-list-row:last-child{ border-bottom: none; }
+  .vl-who{ display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap; }
+  .vl-groupe{ font-size: 0.78rem; color: var(--ink-faint); }
+  .vl-tags{ display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap; }
+
+  .scrutin-foot{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.8rem;
+  }
+  .csv-btn{
+    font-family: var(--sans);
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--blue);
+    background: var(--blue-soft);
+    border: none;
+    border-radius: 3px;
+    padding: 0.35rem 0.7rem;
+    cursor: pointer;
+  }
+  .csv-btn:hover{ filter: brightness(0.96); }
+
   /* ---------- Empty / loading states ---------- */
 
   .state-msg{
@@ -381,7 +496,7 @@
       <input type="search" placeholder="Rechercher un scrutin…" data-filter="q" data-target="votes">
       <span class="result-count" id="count-votes"></span>
     </div>
-    <div class="register" id="list-votes"></div>
+    <div id="list-votes"></div>
   </section>
 
 </main>
@@ -613,47 +728,146 @@
     document.getElementById("list-rapports").innerHTML = html || `<div class="state-msg">Aucun document ne correspond à ces filtres.</div>`;
   }
 
-  // ---------- Rendu : Positions de vote ----------
+  // ---------- Rendu : Positions de vote (une carte par scrutin) ----------
   function positionTagClass(pos){
     if(pos === "POUR") return "tag-pour";
     if(pos === "CONTRE") return "tag-contre";
     if(pos === "ABSTENTION") return "tag-abstention";
     return "tag-neutral";
   }
+
+  // Liste à plat (une ligne par sénateur suivi et par scrutin), dérivée de
+  // la structure groupée par scrutin — utilisée pour les statistiques
+  // agrégées (vue d'ensemble, tableau par sénateur).
+  function flattenVotes(){
+    return state.votes.flatMap(s => s.positions.map(p => ({
+      ...p,
+      scrutin_id: s.scrutin_id,
+      scrutin_titre: s.scrutin_titre,
+      scrutin_date: s.scrutin_date,
+      scrutin_url: s.scrutin_url,
+    })));
+  }
+
+  function csvEscape(v){
+    const s = v == null ? "" : String(v);
+    return /[";\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  }
+
+  function exportScrutinCSV(scrutin){
+    const header = ["Sénateur", "Département", "Groupe", "Position", "Conforme au vote du groupe"];
+    const lines = [header.map(csvEscape).join(";")];
+    scrutin.positions.forEach(p => {
+      const conforme = p.vote_comme_son_groupe === true ? "Oui" : p.vote_comme_son_groupe === false ? "Non" : "";
+      lines.push([p.senateur_nom, p.senateur_dept, p.groupe_politique || "", p.position || "", conforme].map(csvEscape).join(";"));
+    });
+    const blob = new Blob(["﻿" + lines.join("\n")], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `scrutin-${scrutin.scrutin_id}.csv`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
   function renderVotes(){
     if(!state.loaded.votes) return;
     const f = getFilters("votes");
-    let rows = state.votes.filter(v => {
-      if(f.dept && v.senateur_dept !== f.dept) return false;
-      if(f.senateur && v.senateur_slug !== f.senateur) return false;
-      if(f.ecart === "ecart" && v.vote_comme_son_groupe !== false) return false;
-      if(f.q && !norm(v.scrutin_titre).includes(norm(f.q))) return false;
+
+    // On ne filtre PAS le graphique Pour/Contre/Abstention (toujours
+    // calculé sur l'ensemble des 17 sénateurs suivis pour ce scrutin) :
+    // seule la liste des positions individuelles et la sélection des
+    // scrutins affichés tiennent compte des filtres dept/sénateur/écart.
+    let scrutins = state.votes.map(s => {
+      const filteredPositions = s.positions.filter(p => {
+        if(f.dept && p.senateur_dept !== f.dept) return false;
+        if(f.senateur && p.senateur_slug !== f.senateur) return false;
+        if(f.ecart === "ecart" && p.vote_comme_son_groupe !== false) return false;
+        return true;
+      });
+      return { scrutin: s, filteredPositions };
+    }).filter(({ scrutin, filteredPositions }) => {
+      if(f.q && !norm(scrutin.scrutin_titre).includes(norm(f.q))) return false;
+      if((f.dept || f.senateur || f.ecart) && filteredPositions.length === 0) return false;
       return true;
     });
-    rows.sort((a, b) => (b.scrutin_date || "").localeCompare(a.scrutin_date || ""));
 
-    document.getElementById("count-votes").textContent = rows.length + " position" + (rows.length !== 1 ? "s" : "");
+    scrutins.sort((a, b) => (b.scrutin.scrutin_date || "").localeCompare(a.scrutin.scrutin_date || ""));
 
-    const html = rows.slice(0, 300).map(v => {
-      const ecart = v.vote_comme_son_groupe === false
-        ? `<span class="tag tag-ecart">S'écarte de son groupe (${esc(v.position_majoritaire_groupe || "?")})</span>`
-        : "";
-      return `
-        <div class="register-row">
-          <div class="rr-date">${esc(v.scrutin_date || "")}</div>
-          <div class="rr-main">
-            <h3>${esc(v.scrutin_titre)}</h3>
-            <div class="rr-byline"><span class="sen-name">${esc(v.senateur_nom)}</span> · ${esc(v.senateur_dept)} · ${esc(v.groupe_politique || "")}</div>
-            <div class="rr-tags">
-              <span class="tag ${positionTagClass(v.position)}">${esc(v.position)}</span>
-              ${ecart}
-              <a class="rr-link" href="${esc(v.scrutin_url)}" target="_blank" rel="noopener">Voir le scrutin →</a>
+    document.getElementById("count-votes").textContent = scrutins.length + " scrutin" + (scrutins.length !== 1 ? "s" : "");
+
+    const html = scrutins.slice(0, 200).map(({ scrutin: s, filteredPositions }) => {
+      const total = s.positions.length;
+      const nPour = s.positions.filter(p => p.position === "POUR").length;
+      const nContre = s.positions.filter(p => p.position === "CONTRE").length;
+      const nAbs = s.positions.filter(p => p.position === "ABSTENTION").length;
+      const pct = n => total ? (n / total * 100).toFixed(1) : 0;
+
+      const resultatGlobal = [
+        s.votants != null ? `${s.votants} votants` : null,
+        s.pour != null ? `${s.pour} pour` : null,
+        s.contre != null ? `${s.contre} contre` : null,
+        s.abstentions != null ? `${s.abstentions} abstentions` : null,
+      ].filter(Boolean).join(" · ");
+
+      const positionsHtml = (filteredPositions.length ? filteredPositions : s.positions).map(p => {
+        const ecart = p.vote_comme_son_groupe === false
+          ? `<span class="tag tag-ecart">S'écarte de son groupe (${esc(p.position_majoritaire_groupe || "?")})</span>`
+          : "";
+        return `
+          <div class="vote-list-row">
+            <div class="vl-who">
+              <span class="sen-name">${esc(p.senateur_nom)}</span>
+              <span class="dept-badge">${esc(p.senateur_dept)}</span>
+              <span class="vl-groupe">${esc(p.groupe_politique || "")}</span>
             </div>
+            <div class="vl-tags">
+              <span class="tag ${positionTagClass(p.position)}">${esc(p.position)}</span>
+              ${ecart}
+            </div>
+          </div>`;
+      }).join("");
+
+      return `
+        <div class="scrutin-card" data-scrutin-id="${esc(s.scrutin_id)}">
+          <div class="scrutin-head">
+            <span class="scrutin-date">${esc(s.scrutin_date || "")}</span>
+          </div>
+          <h3>${esc(s.scrutin_titre)}</h3>
+          <div class="scrutin-result">
+            ${resultatGlobal ? "Résultat au Sénat : " + esc(resultatGlobal) + " · " : ""}
+            <a href="${esc(s.scrutin_url)}" target="_blank" rel="noopener">Voir le scrutin sur senat.fr →</a>
+          </div>
+          <div class="vote-chart">
+            <div class="vote-chart-label">Nos 17 sénateurs suivis</div>
+            <div class="vote-chart-bar">
+              <span class="vc-seg vc-pour" style="width:${pct(nPour)}%"></span>
+              <span class="vc-seg vc-contre" style="width:${pct(nContre)}%"></span>
+              <span class="vc-seg vc-abstention" style="width:${pct(nAbs)}%"></span>
+            </div>
+            <div class="vote-chart-legend">
+              <span><i class="vc-dot vc-pour"></i>Pour · ${nPour}</span>
+              <span><i class="vc-dot vc-contre"></i>Contre · ${nContre}</span>
+              <span><i class="vc-dot vc-abstention"></i>Abstention · ${nAbs}</span>
+            </div>
+          </div>
+          <div class="vote-list">${positionsHtml}</div>
+          <div class="scrutin-foot">
+            <button class="csv-btn" data-csv="${esc(s.scrutin_id)}">⬇ CSV</button>
           </div>
         </div>`;
     }).join("");
 
-    document.getElementById("list-votes").innerHTML = html || `<div class="state-msg">Aucun vote ne correspond à ces filtres.</div>`;
+    document.getElementById("list-votes").innerHTML = html || `<div class="state-msg">Aucun scrutin ne correspond à ces filtres.</div>`;
+
+    document.getElementById("list-votes").querySelectorAll(".csv-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const scrutin = state.votes.find(s => s.scrutin_id === btn.dataset.csv);
+        if(scrutin) exportScrutinCSV(scrutin);
+      });
+    });
   }
 
   // ---------- Vue d'ensemble ----------
@@ -661,15 +875,16 @@
     const totalQ = state.questions.length;
     const totalR = state.rapports.filter(r => r.type === "rapport").length;
     const totalP = state.rapports.filter(r => r.type === "proposition_de_loi").length;
+    const votesFlat = flattenVotes();
     const totalV = state.votes.length;
-    const totalEcarts = state.votes.filter(v => v.vote_comme_son_groupe === false).length;
+    const totalEcarts = votesFlat.filter(v => v.vote_comme_son_groupe === false).length;
     const enAttente = state.questions.filter(q => q.statut !== "répondue").length;
 
     const stats = [
       [totalQ, "questions écrites" + (enAttente ? ` · ${enAttente} en attente de réponse` : "")],
       [totalR, "rapports parlementaires"],
       [totalP, "propositions de loi"],
-      [totalV, "votes solennels enregistrés" + (totalEcarts ? ` · ${totalEcarts} écarts au groupe` : "")],
+      [totalV, "scrutins solennels suivis" + (totalEcarts ? ` · ${totalEcarts} écarts au groupe` : "")],
     ];
     document.getElementById("overview-stats").innerHTML = stats.map(([v, l]) => `
       <div class="stat">
@@ -681,8 +896,8 @@
       const q = state.questions.filter(x => x.senateur_slug === s.slug).length;
       const r = state.rapports.filter(x => x.senateur_slug === s.slug && x.type === "rapport").length;
       const p = state.rapports.filter(x => x.senateur_slug === s.slug && x.type === "proposition_de_loi").length;
-      const v = state.votes.filter(x => x.senateur_slug === s.slug).length;
-      const e = state.votes.filter(x => x.senateur_slug === s.slug && x.vote_comme_son_groupe === false).length;
+      const v = votesFlat.filter(x => x.senateur_slug === s.slug).length;
+      const e = votesFlat.filter(x => x.senateur_slug === s.slug && x.vote_comme_son_groupe === false).length;
       return { s, q, r, p, v, e };
     }).sort((a, b) => a.s.dept.localeCompare(b.s.dept) || a.s.nom.localeCompare(b.s.nom));
 
