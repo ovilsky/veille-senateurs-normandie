@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:50:50.070642",
+  "generated_at": "2026-10-19T11:31:34.225892",
   "source": "https://data.senat.fr/data/questions/questions-depuis-un-an.csv",
   "questions_ecrites": [
     {
@@ -78,7 +78,7 @@
       "statut": "répondue",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": "Éducation nationale",
-      "themes": "Éducation,PME, commerce et artisanat",
+      "themes": "PME, commerce et artisanat,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251006445.html"
     },
@@ -126,7 +126,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Police et sécurité",
+      "themes": "Police et sécurité,Économie et finances, fiscalité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251006518.html"
     },
@@ -174,7 +174,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Justice,Économie et finances, fiscalité",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Justice",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709662.html"
     },
@@ -190,7 +190,7 @@
       "statut": "répondue",
       "ministre_interroge": "Justice",
       "ministre_reponse": "Justice",
-      "themes": "Collectivités territoriales,Police et sécurité",
+      "themes": "Police et sécurité,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709664.html"
     },
@@ -222,7 +222,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": "Transition écologique",
-      "themes": "Aménagement du territoire,Environnement",
+      "themes": "Environnement,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709666.html"
     },
@@ -238,7 +238,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Agriculture et pêche,Énergie",
+      "themes": "Énergie,Agriculture et pêche",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709667.html"
     },
@@ -318,7 +318,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Énergie",
+      "themes": "Économie et finances, fiscalité,Énergie,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709690.html"
     },
@@ -350,7 +350,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709693.html"
     },
@@ -366,7 +366,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709694.html"
     },
@@ -398,7 +398,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Économie et finances, fiscalité,Aménagement du territoire,Collectivités territoriales",
+      "themes": "Aménagement du territoire,Économie et finances, fiscalité,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709720.html"
     },
@@ -430,7 +430,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Éducation,Pouvoirs publics et Constitution",
+      "themes": "Éducation,Pouvoirs publics et Constitution,Questions sociales et santé",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709735.html"
     },
@@ -446,7 +446,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Recherche, sciences et techniques,Police et sécurité",
+      "themes": "Police et sécurité,Recherche, sciences et techniques",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709736.html"
     },
@@ -638,7 +638,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Entreprises",
+      "themes": "Entreprises,Collectivités territoriales",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408622.html"
     },
@@ -718,7 +718,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transports",
       "ministre_reponse": "Transports",
-      "themes": "Transports,Logement et urbanisme,Aménagement du territoire",
+      "themes": "Logement et urbanisme,Aménagement du territoire,Transports",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107439.html"
     },
@@ -734,7 +734,7 @@
       "statut": "répondue",
       "ministre_interroge": "Culture",
       "ministre_reponse": "Culture",
-      "themes": "Culture,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Culture",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107440.html"
     },
@@ -766,7 +766,7 @@
       "statut": "répondue",
       "ministre_interroge": "Fonction publique et réforme de l'État",
       "ministre_reponse": "Fonction publique et réforme de l'État",
-      "themes": "Économie et finances, fiscalité,Fonction publique",
+      "themes": "Fonction publique,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107450.html"
     },
@@ -782,7 +782,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Entreprises,Questions sociales et santé,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Entreprises,Questions sociales et santé",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107452.html"
     },
@@ -798,7 +798,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Collectivités territoriales,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107482.html"
     },
@@ -814,7 +814,7 @@
       "statut": "répondue",
       "ministre_interroge": "Industrie",
       "ministre_reponse": "Industrie",
-      "themes": "Entreprises,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Entreprises",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107485.html"
     },
@@ -862,7 +862,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": "Armées et anciens combattants (MD)",
-      "themes": "Police et sécurité,Affaires étrangères et coopération",
+      "themes": "Affaires étrangères et coopération,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26010911S.html"
     },
@@ -878,7 +878,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Environnement,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Collectivités territoriales,Environnement",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26010913S.html"
     },
@@ -926,7 +926,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Économie et finances, fiscalité,Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508901.html"
     },
@@ -1038,7 +1038,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Sports,Éducation",
+      "themes": "Éducation,Sports",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508933.html"
     },
@@ -1070,7 +1070,7 @@
       "statut": "répondue",
       "ministre_interroge": "Justice",
       "ministre_reponse": "Justice",
-      "themes": "Justice,Police et sécurité,Environnement,Collectivités territoriales",
+      "themes": "Environnement,Collectivités territoriales,Police et sécurité,Justice",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508950.html"
     },
@@ -1086,7 +1086,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Santé, familles, autonomie et personnes handicapées",
-      "themes": "Questions sociales et santé,Police et sécurité",
+      "themes": "Police et sécurité,Questions sociales et santé",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26050878G.html"
     },
@@ -1134,7 +1134,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106816.html"
     },
@@ -1214,7 +1214,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Économie et finances, fiscalité,Culture",
+      "themes": "Culture,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106841.html"
     },
@@ -1294,7 +1294,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Aménagement du territoire,Budget",
+      "themes": "Aménagement du territoire,Collectivités territoriales,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809872.html"
     },
@@ -1310,7 +1310,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Fonction publique,Aménagement du territoire",
+      "themes": "Fonction publique,Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308118.html"
     },
@@ -1326,7 +1326,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Fonction publique,Collectivités territoriales,Aménagement du territoire,Éducation",
+      "themes": "Collectivités territoriales,Fonction publique,Éducation,Aménagement du territoire",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308119.html"
     },
@@ -1374,7 +1374,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Entreprises,Environnement",
+      "themes": "Environnement,Entreprises",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308168.html"
     },
@@ -1406,7 +1406,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Collectivités territoriales,Agriculture et pêche,Budget",
+      "themes": "Budget,Collectivités territoriales,Agriculture et pêche",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308170.html"
     },
@@ -1438,7 +1438,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Aménagement du territoire,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308172.html"
     },
@@ -1518,7 +1518,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Économie et finances, fiscalité,Affaires étrangères et coopération,Énergie",
+      "themes": "Économie et finances, fiscalité,Énergie,Affaires étrangères et coopération",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26030748G.html"
     },
@@ -1614,7 +1614,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Intérieur",
-      "themes": "Transports,Police et sécurité,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Transports,Police et sécurité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207786.html"
     },
@@ -1710,7 +1710,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Armées et anciens combattants",
-      "themes": "Entreprises,Économie et finances, fiscalité,Défense",
+      "themes": "Entreprises,Défense,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207797.html"
     },
@@ -1822,7 +1822,7 @@
       "statut": "répondue",
       "ministre_interroge": "Culture",
       "ministre_reponse": "Culture",
-      "themes": "Collectivités territoriales,Logement et urbanisme,Environnement,Aménagement du territoire",
+      "themes": "Logement et urbanisme,Collectivités territoriales,Environnement,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207826.html"
     },
@@ -1838,7 +1838,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique",
-      "themes": "Aménagement du territoire,Environnement,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Environnement,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207844.html"
     },
@@ -1870,7 +1870,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Mer et pêche",
-      "themes": "Environnement,Aménagement du territoire,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Environnement,Aménagement du territoire",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207859.html"
     },
@@ -1886,7 +1886,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Énergie,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Énergie,Collectivités territoriales",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207864.html"
     },
@@ -2026,10 +2026,10 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "25/06/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Culture",
-      "ministre_reponse": null,
+      "ministre_reponse": "Culture",
       "themes": "Police et sécurité,Culture",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609256.html"
@@ -2078,7 +2078,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Travail et solidarités",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Travail",
+      "themes": "Travail,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609260.html"
     },
@@ -2094,7 +2094,7 @@
       "statut": "répondue",
       "ministre_interroge": "Premier ministre",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Collectivités territoriales,Environnement,Éducation",
+      "themes": "Environnement,Éducation,Collectivités territoriales",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26060945G.html"
     },
@@ -2110,7 +2110,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Industrie",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Aménagement du territoire",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26061202S.html"
     },
@@ -2126,7 +2126,7 @@
       "statut": "répondue",
       "ministre_interroge": "Culture",
       "ministre_reponse": "Enseignement et formation professionnels et apprentissage",
-      "themes": "Culture,Économie et finances, fiscalité,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Culture,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26061207S.html"
     },
@@ -2142,7 +2142,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Culture,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Culture",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26061214S.html"
     },
@@ -2174,7 +2174,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Éducation,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910076.html"
     },
@@ -2190,7 +2190,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Éducation",
+      "themes": "Éducation,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910105.html"
     },
@@ -2222,7 +2222,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Logement et urbanisme",
+      "themes": "Logement et urbanisme,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910125.html"
     },
@@ -2254,7 +2254,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Fonction publique,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Fonction publique",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910127.html"
     },
@@ -2270,7 +2270,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Environnement,Collectivités territoriales",
+      "themes": "Aménagement du territoire,Collectivités territoriales,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910128.html"
     },
@@ -2286,7 +2286,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Police et sécurité",
+      "themes": "Police et sécurité,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910129.html"
     },
@@ -2446,7 +2446,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Énergie,Environnement",
+      "themes": "Environnement,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251006400.html"
     },
@@ -2478,7 +2478,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": "Intérieur",
-      "themes": "Collectivités territoriales,Police et sécurité",
+      "themes": "Police et sécurité,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251006402.html"
     },
@@ -2510,7 +2510,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Sécurité sociale,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Sécurité sociale",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251006420.html"
     },
@@ -2622,7 +2622,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709586.html"
     },
@@ -2638,7 +2638,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Transports",
+      "themes": "Transports,Questions sociales et santé",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709587.html"
     },
@@ -2654,7 +2654,7 @@
       "statut": "répondue",
       "ministre_interroge": "Justice",
       "ministre_reponse": "Justice",
-      "themes": "Culture,Police et sécurité",
+      "themes": "Police et sécurité,Culture",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709588.html"
     },
@@ -2714,10 +2714,10 @@
       "senateur_nom": "David Margueritte",
       "senateur_dept": "Manche",
       "date_publication": "23/07/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Intérieur",
-      "ministre_reponse": null,
+      "ministre_reponse": "Intérieur",
       "themes": "Pouvoirs publics et Constitution",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709621.html"
@@ -2734,7 +2734,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Agriculture et pêche,Énergie",
+      "themes": "Énergie,Agriculture et pêche",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709622.html"
     },
@@ -2766,7 +2766,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Environnement,Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Environnement,Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408481.html"
     },
@@ -2782,7 +2782,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intelligence artificielle et numérique",
       "ministre_reponse": "Intelligence artificielle et numérique",
-      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408482.html"
     },
@@ -2846,7 +2846,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Environnement,Union européenne",
+      "themes": "Collectivités territoriales,Union européenne,Économie et finances, fiscalité,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408489.html"
     },
@@ -2862,7 +2862,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ville et Logement",
       "ministre_reponse": "Ville et Logement",
-      "themes": "Collectivités territoriales,Logement et urbanisme",
+      "themes": "Logement et urbanisme,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408504.html"
     },
@@ -2910,7 +2910,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Industrie",
-      "themes": "Entreprises,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Entreprises",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408542.html"
     },
@@ -2926,7 +2926,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Sécurité sociale",
+      "themes": "Sécurité sociale,Questions sociales et santé",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408543.html"
     },
@@ -2942,7 +2942,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Agriculture et pêche",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408544.html"
     },
@@ -3022,7 +3022,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Industrie",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Environnement",
+      "themes": "Environnement,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107353.html"
     },
@@ -3038,7 +3038,7 @@
       "statut": "répondue",
       "ministre_interroge": "Industrie",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Entreprises,Environnement",
+      "themes": "Environnement,Entreprises",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107354.html"
     },
@@ -3086,7 +3086,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Aménagement du territoire,Collectivités territoriales,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107365.html"
     },
@@ -3102,7 +3102,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Collectivités territoriales,Budget",
+      "themes": "Collectivités territoriales,Agriculture et pêche,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107378.html"
     },
@@ -3198,7 +3198,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intelligence artificielle et numérique",
       "ministre_reponse": "Intérieur",
-      "themes": "Police et sécurité,Société",
+      "themes": "Société,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107384.html"
     },
@@ -3262,7 +3262,7 @@
       "statut": "répondue",
       "ministre_interroge": "Premier ministre",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Traités et conventions,Agriculture et pêche,Union européenne",
+      "themes": "Agriculture et pêche,Union européenne,Traités et conventions",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26010651G.html"
     },
@@ -3326,7 +3326,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508855.html"
     },
@@ -3390,7 +3390,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Justice",
       "ministre_reponse": null,
-      "themes": "Justice,Travail",
+      "themes": "Travail,Justice",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508859.html"
     },
@@ -3486,7 +3486,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Sécurité sociale,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Sécurité sociale",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106767.html"
     },
@@ -3598,7 +3598,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transports",
       "ministre_reponse": null,
-      "themes": "Transports,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Transports",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809819.html"
     },
@@ -3610,11 +3610,11 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "20/08/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Éducation nationale",
-      "ministre_reponse": null,
-      "themes": "Éducation,Collectivités territoriales,Aménagement du territoire",
+      "ministre_reponse": "Éducation nationale",
+      "themes": "Collectivités territoriales,Aménagement du territoire,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809829.html"
     },
@@ -3630,7 +3630,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Société",
+      "themes": "Société,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260308056.html"
     },
@@ -3742,7 +3742,7 @@
       "statut": "répondue",
       "ministre_interroge": "Sports, jeunesse et vie associative",
       "ministre_reponse": "Sports, jeunesse et vie associative",
-      "themes": "Collectivités territoriales,Société",
+      "themes": "Société,Collectivités territoriales",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26031012S.html"
     },
@@ -3758,7 +3758,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ruralité",
       "ministre_reponse": "Ruralité",
-      "themes": "Collectivités territoriales,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207701.html"
     },
@@ -3806,7 +3806,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Collectivités territoriales,PME, commerce et artisanat",
+      "themes": "Aménagement du territoire,PME, commerce et artisanat,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207704.html"
     },
@@ -3822,7 +3822,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intelligence artificielle et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Économie et finances, fiscalité,Police et sécurité",
+      "themes": "Police et sécurité,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207718.html"
     },
@@ -3838,7 +3838,7 @@
       "statut": "répondue",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
-      "themes": "PME, commerce et artisanat,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,PME, commerce et artisanat",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207735.html"
     },
@@ -3854,7 +3854,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Sécurité sociale",
+      "themes": "Sécurité sociale,Agriculture et pêche",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207736.html"
     },
@@ -3902,7 +3902,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Énergie",
+      "themes": "Énergie,Économie et finances, fiscalité",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207770.html"
     },
@@ -3918,7 +3918,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Environnement,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207778.html"
     },
@@ -3966,7 +3966,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Mer et pêche",
-      "themes": "Entreprises,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Entreprises",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26020955S.html"
     },
@@ -3982,7 +3982,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Intelligence artificielle et numérique",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Collectivités territoriales,Aménagement du territoire,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26020963S.html"
     },
@@ -3998,7 +3998,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ruralité",
       "ministre_reponse": "Ruralité",
-      "themes": "Pouvoirs publics et Constitution,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Pouvoirs publics et Constitution",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207043.html"
     },
@@ -4014,7 +4014,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207067.html"
     },
@@ -4030,7 +4030,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Culture,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Culture",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207103.html"
     },
@@ -4046,7 +4046,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Agriculture et pêche,Environnement",
+      "themes": "Environnement,Agriculture et pêche",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207104.html"
     },
@@ -4174,7 +4174,7 @@
       "statut": "répondue",
       "ministre_interroge": "Justice",
       "ministre_reponse": "Justice",
-      "themes": "Justice,Police et sécurité",
+      "themes": "Police et sécurité,Justice",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609171.html"
     },
@@ -4206,7 +4206,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Environnement,Budget",
+      "themes": "Budget,Collectivités territoriales,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609174.html"
     },
@@ -4222,7 +4222,7 @@
       "statut": "répondue",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "PME, commerce et artisanat,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,PME, commerce et artisanat",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609175.html"
     },
@@ -4238,7 +4238,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609183.html"
     },
@@ -4318,7 +4318,7 @@
       "statut": "répondue",
       "ministre_interroge": "Culture",
       "ministre_reponse": "Culture",
-      "themes": "Logement et urbanisme,Culture",
+      "themes": "Culture,Logement et urbanisme",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609220.html"
     },
@@ -4350,41 +4350,9 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Agriculture et pêche,Énergie,Économie et finances, fiscalité",
+      "themes": "Agriculture et pêche,Économie et finances, fiscalité,Énergie",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910053.html"
-    },
-    {
-      "type": "question_ecrite",
-      "numero": "06322",
-      "titre": "Insuffisance du nombre d'accompagnants d'élèves en situation de handicap au collège",
-      "senateur_slug": "pluchet_kristina20118y",
-      "senateur_nom": "Kristina Pluchet",
-      "senateur_dept": "Eure",
-      "date_publication": "16/10/2025",
-      "date_reponse": "05/03/2026",
-      "statut": "répondue",
-      "ministre_interroge": "Éducation nationale",
-      "ministre_reponse": "Éducation nationale",
-      "themes": "Éducation",
-      "groupe_politique": "Les Républicains",
-      "url": "https://www.senat.fr/questions/base/2025/qSEQ251006322.html"
-    },
-    {
-      "type": "question_ecrite",
-      "numero": "06338",
-      "titre": "Représentation des particuliers employeurs dans les Conseils de prud'hommes",
-      "senateur_slug": "feret_corinne14281w",
-      "senateur_nom": "Corinne Féret",
-      "senateur_dept": "Calvados",
-      "date_publication": "16/10/2025",
-      "date_reponse": "14/05/2026",
-      "statut": "répondue",
-      "ministre_interroge": "Justice",
-      "ministre_reponse": "Justice",
-      "themes": "Justice",
-      "groupe_politique": "SER",
-      "url": "https://www.senat.fr/questions/base/2025/qSEQ251006338.html"
     },
     {
       "type": "question_ecrite",
@@ -4430,7 +4398,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique",
-      "themes": "Collectivités territoriales,Environnement,Agriculture et pêche",
+      "themes": "Collectivités territoriales,Agriculture et pêche,Environnement",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709535.html"
     },
@@ -4462,7 +4430,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Budget,Affaires étrangères et coopération,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Affaires étrangères et coopération,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709561.html"
     },
@@ -4506,11 +4474,11 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "16/04/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Transition écologique",
-      "ministre_reponse": null,
-      "themes": "Environnement,Économie et finances, fiscalité,Transports",
+      "ministre_reponse": "Transition écologique",
+      "themes": "Économie et finances, fiscalité,Transports,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408358.html"
     },
@@ -4574,7 +4542,7 @@
       "statut": "répondue",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
-      "themes": "Environnement,PME, commerce et artisanat",
+      "themes": "PME, commerce et artisanat,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408448.html"
     },
@@ -4606,7 +4574,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Aménagement du territoire,Collectivités territoriales,Logement et urbanisme",
+      "themes": "Logement et urbanisme,Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408450.html"
     },
@@ -4622,7 +4590,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Aménagement du territoire,Environnement",
+      "themes": "Collectivités territoriales,Environnement,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408451.html"
     },
@@ -4638,7 +4606,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Agriculture et pêche",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408452.html"
     },
@@ -4785,6 +4753,230 @@
       "themes": "Police et sécurité,Transports,Union européenne",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408461.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10346",
+      "titre": "Lutte contre le narcotrafic dans les ports de plaisance et responsabilités des autorités portuaires",
+      "senateur_slug": "fagnen_sebastien21062e",
+      "senateur_nom": "Sébastien Fagnen",
+      "senateur_dept": "Manche",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Intérieur",
+      "ministre_reponse": null,
+      "themes": "Police et sécurité",
+      "groupe_politique": "SER",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010346.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10350",
+      "titre": "Soutien aux infirmiers libéraux face à la hausse des carburants",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
+      "ministre_reponse": null,
+      "themes": "Énergie,Questions sociales et santé,Sécurité sociale",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010350.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10393",
+      "titre": "Contribution financière des collectivités territoriales membres aux investissements des syndicats exerçant la compétence GEMAPI",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Aménagement du territoire et décentralisation",
+      "ministre_reponse": null,
+      "themes": "Collectivités territoriales,Aménagement du territoire",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010393.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10394",
+      "titre": "Projet « adaptation du réseau territorial 2027-2030 » de la DGFIP",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Action et comptes publics",
+      "ministre_reponse": null,
+      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010394.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10395",
+      "titre": "Temps de travail imputable aux requêtes des notaires aux communes",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Justice",
+      "ministre_reponse": null,
+      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010395.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10396",
+      "titre": "Révision du cadre financier de la production de biogaz",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
+      "ministre_reponse": null,
+      "themes": "Agriculture et pêche,Énergie",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010396.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10397",
+      "titre": "Non-application de l'article L.132-3 du code de la sécurité intérieure",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Intérieur",
+      "ministre_reponse": null,
+      "themes": "Justice,Collectivités territoriales,Police et sécurité",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010397.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10398",
+      "titre": "Éligibilité des étudiantes-mères aux trimestres assimilées de cotisation à l'assurance vieillesse au titre du congé maternité et du congé éducation",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Travail et solidarités",
+      "ministre_reponse": null,
+      "themes": "Sécurité sociale",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010398.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "10399",
+      "titre": "Valorisation de l'engagement des sapeurs-pompiers volontaires",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Travail et solidarités",
+      "ministre_reponse": null,
+      "themes": "Police et sécurité,Sécurité sociale",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ261010399.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "0994G",
+      "titre": "Traduction budgétaire des annonces faites aux lycéens",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_publication": "15/10/2026",
+      "date_reponse": "15/10/2026",
+      "statut": "répondue",
+      "ministre_interroge": "Éducation nationale",
+      "ministre_reponse": "Éducation nationale",
+      "themes": "Éducation",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26100994G.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "1277S",
+      "titre": "Prise en compte de l'avis des élus locaux dans la procédure d'autorisation d'installation ou d'extension de parcs éoliens terrestres",
+      "senateur_slug": "morin_desailly_catherine04070g",
+      "senateur_nom": "Catherine Morin-Desailly",
+      "senateur_dept": "Seine-Maritime",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
+      "ministre_reponse": null,
+      "themes": "Énergie,Collectivités territoriales",
+      "groupe_politique": "UCI",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26101277S.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "1279S",
+      "titre": "Sibanye Stillwater à Sandouville, 106 emplois menacés",
+      "senateur_slug": "brulin_celine19758l",
+      "senateur_nom": "Céline Brulin",
+      "senateur_dept": "Seine-Maritime",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Industrie",
+      "ministre_reponse": null,
+      "themes": "Économie et finances, fiscalité,Entreprises,Travail",
+      "groupe_politique": "CRCE-K",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26101279S.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "1280S",
+      "titre": "Plan de restructuration des bureaux de poste en Seine-Maritime",
+      "senateur_slug": "brulin_celine19758l",
+      "senateur_nom": "Céline Brulin",
+      "senateur_dept": "Seine-Maritime",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
+      "ministre_reponse": null,
+      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
+      "groupe_politique": "CRCE-K",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26101280S.html"
+    },
+    {
+      "type": "question_ecrite",
+      "numero": "1284S",
+      "titre": "Projet NRP 2 - Restructuration du réseau des trésoreries",
+      "senateur_slug": "brulin_celine19758l",
+      "senateur_nom": "Céline Brulin",
+      "senateur_dept": "Seine-Maritime",
+      "date_publication": "15/10/2026",
+      "date_reponse": null,
+      "statut": "en attente de réponse",
+      "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
+      "ministre_reponse": null,
+      "themes": "Économie et finances, fiscalité,Aménagement du territoire",
+      "groupe_politique": "CRCE-K",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26101284S.html"
     },
     {
       "type": "question_ecrite",
@@ -5166,7 +5358,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Budget,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107310.html"
     },
@@ -5230,7 +5422,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107314.html"
     },
@@ -5262,7 +5454,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Logement et urbanisme,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Logement et urbanisme",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107316.html"
     },
@@ -5294,7 +5486,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Sécurité sociale,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Sécurité sociale",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107318.html"
     },
@@ -5438,7 +5630,7 @@
       "statut": "répondue",
       "ministre_interroge": "Sports, jeunesse et vie associative",
       "ministre_reponse": "Sports, jeunesse et vie associative",
-      "themes": "Budget,Travail",
+      "themes": "Travail,Budget",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107349.html"
     },
@@ -5518,7 +5710,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Ruralité",
-      "themes": "Environnement,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Environnement",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26010880S.html"
     },
@@ -5630,7 +5822,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Collectivités territoriales,Environnement,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Environnement,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508773.html"
     },
@@ -5662,7 +5854,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intelligence artificielle et numérique",
       "ministre_reponse": null,
-      "themes": "Police et sécurité,Recherche, sciences et techniques",
+      "themes": "Recherche, sciences et techniques,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508778.html"
     },
@@ -5726,7 +5918,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ville et Logement",
       "ministre_reponse": "Ville et Logement",
-      "themes": "Logement et urbanisme,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Logement et urbanisme",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508784.html"
     },
@@ -5742,7 +5934,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Enseignement supérieur, recherche et espace",
       "ministre_reponse": null,
-      "themes": "Recherche, sciences et techniques,Culture",
+      "themes": "Culture,Recherche, sciences et techniques",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508785.html"
     },
@@ -5758,7 +5950,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ruralité",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Questions sociales et santé,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Questions sociales et santé",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508816.html"
     },
@@ -5774,7 +5966,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Économie et finances, fiscalité,Fonction publique",
+      "themes": "Fonction publique,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508825.html"
     },
@@ -5790,7 +5982,7 @@
       "statut": "répondue",
       "ministre_interroge": "Premier ministre",
       "ministre_reponse": "Relations avec le Parlement",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26051117S.html"
     },
@@ -5870,7 +6062,7 @@
       "statut": "répondue",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": "Travail et solidarités",
-      "themes": "Éducation,Travail",
+      "themes": "Travail,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106688.html"
     },
@@ -5966,7 +6158,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Ville et Logement",
-      "themes": "Environnement,Collectivités territoriales,Énergie,Logement et urbanisme",
+      "themes": "Collectivités territoriales,Environnement,Logement et urbanisme,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106709.html"
     },
@@ -5982,7 +6174,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Économie et finances, fiscalité,Environnement",
+      "themes": "Environnement,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106710.html"
     },
@@ -6030,7 +6222,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique",
-      "themes": "Aménagement du territoire,Environnement",
+      "themes": "Environnement,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106713.html"
     },
@@ -6126,7 +6318,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Budget,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106719.html"
     },
@@ -6142,7 +6334,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Sécurité sociale",
+      "themes": "Sécurité sociale,Questions sociales et santé",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106720.html"
     },
@@ -6222,7 +6414,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": "Intérieur",
-      "themes": "Collectivités territoriales,Pouvoirs publics et Constitution",
+      "themes": "Pouvoirs publics et Constitution,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106725.html"
     },
@@ -6238,7 +6430,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Énergie,Économie et finances, fiscalité,Environnement",
+      "themes": "Économie et finances, fiscalité,Environnement,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106726.html"
     },
@@ -6398,7 +6590,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Fonction publique et réforme de l'État",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ25110547G.html"
     },
@@ -6414,7 +6606,7 @@
       "statut": "répondue",
       "ministre_interroge": "Premier ministre",
       "ministre_reponse": "Europe",
-      "themes": "Union européenne,Affaires étrangères et coopération",
+      "themes": "Affaires étrangères et coopération,Union européenne",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ25110548G.html"
     },
@@ -6494,7 +6686,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transports",
       "ministre_reponse": "Transports",
-      "themes": "Police et sécurité,Transports",
+      "themes": "Transports,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260307980.html"
     },
@@ -6510,7 +6702,7 @@
       "statut": "répondue",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Économie et finances, fiscalité,Énergie",
+      "themes": "Énergie,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260307981.html"
     },
@@ -6526,7 +6718,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Environnement,Collectivités territoriales",
+      "themes": "Environnement,Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260307982.html"
     },
@@ -6542,7 +6734,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ville et Logement",
       "ministre_reponse": "Ville et Logement",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Collectivités territoriales,Aménagement du territoire,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260307983.html"
     },
@@ -6702,7 +6894,7 @@
       "statut": "répondue",
       "ministre_interroge": "Industrie",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207621.html"
     },
@@ -6734,7 +6926,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Ville et Logement",
       "ministre_reponse": null,
-      "themes": "Logement et urbanisme,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Logement et urbanisme",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207623.html"
     },
@@ -6782,7 +6974,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207682.html"
     },
@@ -6798,7 +6990,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Énergie",
+      "themes": "Énergie,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207683.html"
     },
@@ -6830,7 +7022,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Économie et finances, fiscalité,Budget",
+      "themes": "Budget,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207685.html"
     },
@@ -6990,7 +7182,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Économie et finances, fiscalité,Famille",
+      "themes": "Famille,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207695.html"
     },
@@ -7006,7 +7198,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Fonction publique,Collectivités territoriales,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Fonction publique,Collectivités territoriales",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26020942S.html"
     },
@@ -7022,7 +7214,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Environnement,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Collectivités territoriales,Environnement,Aménagement du territoire",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26020952S.html"
     },
@@ -7086,7 +7278,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Éducation,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251206976.html"
     },
@@ -7134,7 +7326,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Éducation",
+      "themes": "Éducation,Agriculture et pêche",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207003.html"
     },
@@ -7166,7 +7358,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Entreprises,Énergie",
+      "themes": "Énergie,Entreprises",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207023.html"
     },
@@ -7198,7 +7390,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
-      "themes": "Union européenne,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Union européenne",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251207028.html"
     },
@@ -7230,7 +7422,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Justice",
       "ministre_reponse": null,
-      "themes": "Justice,Environnement,Collectivités territoriales",
+      "themes": "Environnement,Collectivités territoriales,Justice",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609058.html"
     },
@@ -7246,7 +7438,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Sécurité sociale,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Sécurité sociale",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609062.html"
     },
@@ -7262,7 +7454,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Énergie,Environnement,Union européenne",
+      "themes": "Union européenne,Énergie,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609069.html"
     },
@@ -7278,7 +7470,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Travail",
+      "themes": "Travail,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609071.html"
     },
@@ -7294,7 +7486,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": "Transition écologique",
-      "themes": "Environnement,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609072.html"
     },
@@ -7310,7 +7502,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Collectivités territoriales,Budget",
+      "themes": "Budget,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609074.html"
     },
@@ -7326,7 +7518,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Police et sécurité",
+      "themes": "Police et sécurité,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609075.html"
     },
@@ -7342,7 +7534,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609076.html"
     },
@@ -7422,7 +7614,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Transition écologique",
-      "themes": "Environnement,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Environnement",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609102.html"
     },
@@ -7438,7 +7630,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Environnement,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Environnement,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609105.html"
     },
@@ -7454,7 +7646,7 @@
       "statut": "répondue",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609106.html"
     },
@@ -7486,7 +7678,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609141.html"
     },
@@ -7550,7 +7742,7 @@
       "statut": "répondue",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Économie et finances, fiscalité,Énergie",
+      "themes": "Énergie,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609145.html"
     },
@@ -7582,7 +7774,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Affaires étrangères et coopération,Union européenne,Agriculture et pêche,Traités et conventions",
+      "themes": "Traités et conventions,Affaires étrangères et coopération,Agriculture et pêche,Union européenne",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609148.html"
     },
@@ -7630,7 +7822,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": null,
-      "themes": "Environnement,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Environnement",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26061180S.html"
     },
@@ -7678,7 +7870,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Éducation,Environnement",
+      "themes": "Environnement,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909996.html"
     },
@@ -7710,7 +7902,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Éducation,Sports",
+      "themes": "Sports,Éducation",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260910010.html"
     },
@@ -7742,7 +7934,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Premier ministre",
       "ministre_reponse": null,
-      "themes": "Fonction publique,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Fonction publique",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26091248S.html"
     },
@@ -7822,7 +8014,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Collectivités territoriales,Aménagement du territoire,Union européenne",
+      "themes": "Collectivités territoriales,Union européenne,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709413.html"
     },
@@ -7854,7 +8046,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709440.html"
     },
@@ -7870,7 +8062,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Budget",
+      "themes": "Budget,Économie et finances, fiscalité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709456.html"
     },
@@ -7886,7 +8078,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": null,
-      "themes": "Budget,Agriculture et pêche",
+      "themes": "Agriculture et pêche,Budget",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709457.html"
     },
@@ -8030,7 +8222,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Environnement,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Environnement,Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408325.html"
     },
@@ -8078,7 +8270,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Union européenne,Environnement,Agriculture et pêche",
+      "themes": "Économie et finances, fiscalité,Agriculture et pêche,Union européenne,Environnement",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408336.html"
     },
@@ -8094,7 +8286,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Éducation,Collectivités territoriales,Fonction publique",
+      "themes": "Fonction publique,Collectivités territoriales,Éducation",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408350.html"
     },
@@ -8110,7 +8302,7 @@
       "statut": "répondue",
       "ministre_interroge": "Intelligence artificielle et numérique",
       "ministre_reponse": "Économie, finances, souveraineté industrielle, énergétique et numérique",
-      "themes": "Économie et finances, fiscalité,Police et sécurité",
+      "themes": "Police et sécurité,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26040793G.html"
     },
@@ -8142,7 +8334,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Logement et urbanisme,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Collectivités territoriales,Aménagement du territoire,Logement et urbanisme",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ261010270.html"
     },
@@ -8238,7 +8430,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508708.html"
     },
@@ -8254,7 +8446,7 @@
       "statut": "répondue",
       "ministre_interroge": "Armées et anciens combattants",
       "ministre_reponse": "Armées et anciens combattants",
-      "themes": "Défense,Économie et finances, fiscalité,Entreprises",
+      "themes": "Entreprises,Défense,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508709.html"
     },
@@ -8270,7 +8462,7 @@
       "statut": "répondue",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": "Éducation nationale",
-      "themes": "Éducation,Fonction publique",
+      "themes": "Fonction publique,Éducation",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508710.html"
     },
@@ -8286,7 +8478,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transports",
       "ministre_reponse": "Transports",
-      "themes": "Union européenne,Transports,Énergie",
+      "themes": "Transports,Énergie,Union européenne",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508711.html"
     },
@@ -8334,7 +8526,7 @@
       "statut": "répondue",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
-      "themes": "Union européenne,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Union européenne",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508714.html"
     },
@@ -8350,7 +8542,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Logement et urbanisme,Collectivités territoriales,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Collectivités territoriales,Logement et urbanisme",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508715.html"
     },
@@ -8414,7 +8606,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,PME, commerce et artisanat,Collectivités territoriales",
+      "themes": "PME, commerce et artisanat,Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508719.html"
     },
@@ -8446,7 +8638,7 @@
       "statut": "répondue",
       "ministre_interroge": "Ruralité",
       "ministre_reponse": "Ruralité",
-      "themes": "Collectivités territoriales,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260508721.html"
     },
@@ -8686,7 +8878,7 @@
       "statut": "répondue",
       "ministre_interroge": "Culture",
       "ministre_reponse": "Culture",
-      "themes": "Culture,Travail",
+      "themes": "Travail,Culture",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106565.html"
     },
@@ -8734,7 +8926,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Sports",
+      "themes": "Sports,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809766.html"
     },
@@ -8750,7 +8942,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Police et sécurité,Budget",
+      "themes": "Collectivités territoriales,Budget,Police et sécurité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809768.html"
     },
@@ -8766,7 +8958,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Travail et solidarités",
       "ministre_reponse": null,
-      "themes": "Police et sécurité,Sécurité sociale",
+      "themes": "Sécurité sociale,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809770.html"
     },
@@ -8814,7 +9006,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Économie et finances, fiscalité,Logement et urbanisme",
+      "themes": "Logement et urbanisme,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809782.html"
     },
@@ -8862,7 +9054,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Police et sécurité,Justice,Collectivités territoriales",
+      "themes": "Justice,Collectivités territoriales,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260809802.html"
     },
@@ -8974,7 +9166,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Aménagement du territoire,Logement et urbanisme,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Logement et urbanisme,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207508.html"
     },
@@ -9054,7 +9246,7 @@
       "statut": "répondue",
       "ministre_interroge": "Justice",
       "ministre_reponse": "Éducation nationale",
-      "themes": "Justice,Travail",
+      "themes": "Travail,Justice",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207534.html"
     },
@@ -9070,7 +9262,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Agriculture et pêche,Éducation",
+      "themes": "Éducation,Agriculture et pêche",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207535.html"
     },
@@ -9182,7 +9374,7 @@
       "statut": "répondue",
       "ministre_interroge": "Autonomie et personnes handicapées",
       "ministre_reponse": "Autonomie et personnes handicapées",
-      "themes": "Police et sécurité,Union européenne,Transports",
+      "themes": "Transports,Union européenne,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260207600.html"
     },
@@ -9214,7 +9406,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Budget,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Budget",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251206871.html"
     },
@@ -9278,7 +9470,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251206918.html"
     },
@@ -9322,11 +9514,11 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "04/06/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "15/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
-      "ministre_reponse": null,
-      "themes": "Environnement,Collectivités territoriales",
+      "ministre_reponse": "Aménagement du territoire et décentralisation",
+      "themes": "Collectivités territoriales,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260608994.html"
     },
@@ -9390,7 +9582,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": "Transition écologique",
-      "themes": "Collectivités territoriales,Environnement",
+      "themes": "Environnement,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260609011.html"
     },
@@ -9422,7 +9614,7 @@
       "statut": "répondue",
       "ministre_interroge": "PME, commerce, artisanat, tourisme et pouvoir d'achat",
       "ministre_reponse": "Industrie",
-      "themes": "PME, commerce et artisanat,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,PME, commerce et artisanat",
       "groupe_politique": "SER",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ26061170S.html"
     },
@@ -9482,11 +9674,11 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "03/09/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Culture",
-      "ministre_reponse": null,
-      "themes": "Police et sécurité,Culture",
+      "ministre_reponse": "Culture",
+      "themes": "Culture,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909888.html"
     },
@@ -9502,7 +9694,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Environnement",
+      "themes": "Environnement,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909889.html"
     },
@@ -9726,7 +9918,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909932.html"
     },
@@ -9742,7 +9934,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Aménagement du territoire,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Aménagement du territoire,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909933.html"
     },
@@ -9758,7 +9950,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Intérieur",
       "ministre_reponse": null,
-      "themes": "Police et sécurité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Police et sécurité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909934.html"
     },
@@ -9774,7 +9966,7 @@
       "statut": "répondue",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Collectivités territoriales,Budget",
+      "themes": "Budget,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909935.html"
     },
@@ -9806,7 +9998,7 @@
       "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": "Aménagement du territoire et décentralisation",
-      "themes": "Travail,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Travail",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909937.html"
     },
@@ -9822,7 +10014,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Union européenne,Environnement,Énergie",
+      "themes": "Environnement,Énergie,Union européenne",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909938.html"
     },
@@ -9882,10 +10074,10 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "03/09/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "15/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
-      "ministre_reponse": null,
+      "ministre_reponse": "Aménagement du territoire et décentralisation",
       "themes": "Collectivités territoriales,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909942.html"
@@ -9902,7 +10094,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Fonction publique,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Fonction publique",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909943.html"
     },
@@ -9918,7 +10110,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Éducation nationale",
       "ministre_reponse": null,
-      "themes": "Sports,Éducation",
+      "themes": "Éducation,Sports",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909944.html"
     },
@@ -9950,7 +10142,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transports",
       "ministre_reponse": null,
-      "themes": "Environnement,Aménagement du territoire",
+      "themes": "Aménagement du territoire,Environnement",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909946.html"
     },
@@ -9982,7 +10174,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Aménagement du territoire,Économie et finances, fiscalité",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260909948.html"
     },
@@ -9998,7 +10190,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Aménagement du territoire et décentralisation",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Logement et urbanisme",
+      "themes": "Logement et urbanisme,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709309.html"
     },
@@ -10030,7 +10222,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Fonction publique",
+      "themes": "Fonction publique,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709311.html"
     },
@@ -10046,7 +10238,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
       "ministre_reponse": null,
-      "themes": "Aménagement du territoire,Environnement,Collectivités territoriales",
+      "themes": "Environnement,Collectivités territoriales,Aménagement du territoire",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709312.html"
     },
@@ -10062,7 +10254,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Éducation,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Éducation",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709315.html"
     },
@@ -10094,7 +10286,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Action et comptes publics",
       "ministre_reponse": null,
-      "themes": "Collectivités territoriales,Fonction publique",
+      "themes": "Fonction publique,Collectivités territoriales",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709349.html"
     },
@@ -10174,7 +10366,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": "Transition écologique",
-      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Environnement,Union européenne",
+      "themes": "Union européenne,Collectivités territoriales,Environnement,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709392.html"
     },
@@ -10206,7 +10398,7 @@
       "statut": "répondue",
       "ministre_interroge": "Transition écologique",
       "ministre_reponse": "Transition écologique, biodiversité et négociations internationales sur le climat et la nature",
-      "themes": "Collectivités territoriales,Économie et finances, fiscalité,Environnement",
+      "themes": "Économie et finances, fiscalité,Environnement,Collectivités territoriales",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709394.html"
     },
@@ -10234,11 +10426,11 @@
       "senateur_nom": "Hervé Maurey",
       "senateur_dept": "Eure",
       "date_publication": "02/07/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Transition écologique",
-      "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Transports,Environnement",
+      "ministre_reponse": "Transition écologique",
+      "themes": "Transports,Environnement,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709396.html"
     },
@@ -10302,7 +10494,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Agriculture et pêche,Économie et finances, fiscalité,Union européenne,Environnement",
+      "themes": "Environnement,Union européenne,Agriculture et pêche,Économie et finances, fiscalité",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260709400.html"
     },
@@ -10382,7 +10574,7 @@
       "statut": "répondue",
       "ministre_interroge": "Agriculture, agro-alimentaire et souveraineté alimentaire",
       "ministre_reponse": "Agriculture, agro-alimentaire et souveraineté alimentaire",
-      "themes": "Traités et conventions,Agriculture et pêche,Union européenne,Affaires étrangères et coopération",
+      "themes": "Union européenne,Affaires étrangères et coopération,Agriculture et pêche,Traités et conventions",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408180.html"
     },
@@ -10398,7 +10590,7 @@
       "statut": "répondue",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": "Porte-parole du Gouvernement et Énergie",
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260408181.html"
     },
@@ -10586,11 +10778,11 @@
       "senateur_nom": "Nathalie Goulet",
       "senateur_dept": "Orne",
       "date_publication": "01/10/2026",
-      "date_reponse": null,
-      "statut": "en attente de réponse",
+      "date_reponse": "22/10/2026",
+      "statut": "répondue",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
-      "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Économie et finances, fiscalité",
+      "ministre_reponse": "Autonomie et personnes handicapées",
+      "themes": "Économie et finances, fiscalité,Questions sociales et santé",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ261010173.html"
     },
@@ -10654,7 +10846,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Porte-parole du Gouvernement et Énergie",
       "ministre_reponse": null,
-      "themes": "Énergie,Économie et finances, fiscalité",
+      "themes": "Économie et finances, fiscalité,Énergie",
       "groupe_politique": "Les Républicains",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ261010195.html"
     },
@@ -10670,7 +10862,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Travail et solidarités",
       "ministre_reponse": null,
-      "themes": "Questions sociales et santé,Travail,Économie et finances, fiscalité",
+      "themes": "Travail,Questions sociales et santé,Économie et finances, fiscalité",
       "groupe_politique": "CRCE-K",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ261010197.html"
     },
@@ -10702,7 +10894,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Santé, familles, autonomie et personnes handicapées",
       "ministre_reponse": null,
-      "themes": "Transports,Questions sociales et santé",
+      "themes": "Questions sociales et santé,Transports",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ261010220.html"
     },
@@ -10734,7 +10926,7 @@
       "statut": "en attente de réponse",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": null,
-      "themes": "Économie et finances, fiscalité,Agriculture et pêche,Environnement",
+      "themes": "Agriculture et pêche,Environnement,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107196.html"
     },
@@ -10750,7 +10942,7 @@
       "statut": "répondue",
       "ministre_interroge": "Économie, finances, souveraineté industrielle, énergétique et numérique",
       "ministre_reponse": "Action et comptes publics",
-      "themes": "Économie et finances, fiscalité,Collectivités territoriales",
+      "themes": "Collectivités territoriales,Économie et finances, fiscalité",
       "groupe_politique": "UC",
       "url": "https://www.senat.fr/questions/base/2026/qSEQ260107197.html"
     }
