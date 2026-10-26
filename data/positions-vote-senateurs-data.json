@@ -1,7 +1,931 @@
 {
-  "generated_at": "2026-10-19T11:33:23.269411",
+  "generated_at": "2026-10-26T11:52:16.798369",
   "source": "https://nosparlementaires.fr/donnees-ouvertes (données dérivées de l'Open Data du Sénat)",
   "positions_vote": [
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-28",
+      "scrutin_titre": "sur larticle unique constituant lensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+      "scrutin_date": "2026-10-21",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-28.html",
+      "dossier_ref": "75906",
+      "votants": 343,
+      "suffrages_exprimes": 275,
+      "pour": 275,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-25",
+      "scrutin_titre": "sur lensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs",
+      "scrutin_date": "2026-10-20",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-25.html",
+      "dossier_ref": "78213",
+      "votants": 344,
+      "suffrages_exprimes": 342,
+      "pour": 325,
+      "contre": 17,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-19",
+      "scrutin_titre": "sur lensemble de la proposition de loi portant abrogation du « code noir »",
+      "scrutin_date": "2026-10-19",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-19.html",
+      "dossier_ref": "77190",
+      "votants": 338,
+      "suffrages_exprimes": 320,
+      "pour": 320,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-21",
+      "scrutin_titre": "sur l'ensemble du projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
+      "scrutin_date": "2026-10-19",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-21.html",
+      "dossier_ref": "84844",
+      "votants": 343,
+      "suffrages_exprimes": 340,
+      "pour": 340,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-23",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à garantir l'information et la protection effective des victimes de violences sexistes et sexuelles lors de la libération de leur agresseur",
+      "scrutin_date": "2026-10-19",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-23.html",
+      "dossier_ref": "77163",
+      "votants": 342,
+      "suffrages_exprimes": 342,
+      "pour": 342,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-10",
+      "scrutin_titre": "sur lensemble de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+      "scrutin_date": "2026-10-18",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-10.html",
+      "dossier_ref": "75954",
+      "votants": 343,
+      "suffrages_exprimes": 343,
+      "pour": 343,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-9",
+      "scrutin_titre": "sur lensemble de la proposition de loi pour l'égalité d'accès aux soins des Ultramarins sur l'ensemble du territoire national",
+      "scrutin_date": "2026-10-18",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-9.html",
+      "dossier_ref": "79890",
+      "votants": 343,
+      "suffrages_exprimes": 248,
+      "pour": 248,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "ABSTENTION",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
     {
       "type": "scrutin",
       "scrutin_id": "2025-336",
