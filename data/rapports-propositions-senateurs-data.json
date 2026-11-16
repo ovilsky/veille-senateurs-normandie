@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:41:37.523536",
+  "generated_at": "2026-11-16T14:17:20.146650",
   "propositions_de_loi": [
     {
       "type": "proposition_de_loi",
@@ -303,16 +303,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi constitutionnelle visant à garantir la compensation financière des transferts de compétences et des décisions de l'État qui aggravent les charges des collectivités territoriales",
-      "role": "cosignataire",
-      "senateur_slug": "de_la_provote_sonia19735d",
-      "senateur_nom": "Sonia de La Provôté",
-      "senateur_dept": "Calvados",
-      "date_depot": "01/07/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-823.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à mieux inscrire l'intercommunalité dans une logique de partenariat des territoires",
       "role": "cosignataire",
       "senateur_slug": "de_la_provote_sonia19735d",
@@ -320,6 +310,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "01/07/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-841.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi constitutionnelle visant à garantir la compensation financière des transferts de compétences et des décisions de l'État qui aggravent les charges des collectivités territoriales",
+      "role": "cosignataire",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_depot": "01/07/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-823.html"
     },
     {
       "type": "proposition_de_loi",
@@ -703,16 +703,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à retirer les produits du bois de la responsabilité élargie du producteur produits et matériaux de construction du secteur du bâtiment (PMCB)",
-      "role": "cosignataire",
-      "senateur_slug": "de_la_provote_sonia19735d",
-      "senateur_nom": "Sonia de La Provôté",
-      "senateur_dept": "Calvados",
-      "date_depot": "15/01/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-242.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à faciliter la mobilité des chiens d'assistance accompagnant les militaires en état de stress post-traumatique",
       "role": "cosignataire",
       "senateur_slug": "de_la_provote_sonia19735d",
@@ -720,6 +710,16 @@
       "senateur_dept": "Calvados",
       "date_depot": "15/01/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-241.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à retirer les produits du bois de la responsabilité élargie du producteur produits et matériaux de construction du secteur du bâtiment (PMCB)",
+      "role": "cosignataire",
+      "senateur_slug": "de_la_provote_sonia19735d",
+      "senateur_nom": "Sonia de La Provôté",
+      "senateur_dept": "Calvados",
+      "date_depot": "15/01/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-242.html"
     },
     {
       "type": "proposition_de_loi",
@@ -1883,16 +1883,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi organique relative à l'automatisation de la mise à jour des listes électorales",
-      "role": "cosignataire",
-      "senateur_slug": "maurey_herve08009t",
-      "senateur_nom": "Hervé Maurey",
-      "senateur_dept": "Eure",
-      "date_depot": "09/04/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-526.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi relative à l'automatisation de la mise à jour des listes électorales",
       "role": "cosignataire",
       "senateur_slug": "maurey_herve08009t",
@@ -1900,6 +1890,16 @@
       "senateur_dept": "Eure",
       "date_depot": "09/04/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-527.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi organique relative à l'automatisation de la mise à jour des listes électorales",
+      "role": "cosignataire",
+      "senateur_slug": "maurey_herve08009t",
+      "senateur_nom": "Hervé Maurey",
+      "senateur_dept": "Eure",
+      "date_depot": "09/04/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-526.html"
     },
     {
       "type": "proposition_de_loi",
@@ -2633,16 +2633,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice",
-      "role": "cosignataire",
-      "senateur_slug": "margueritte_david21486b",
-      "senateur_nom": "David Margueritte",
-      "senateur_dept": "Manche",
-      "date_depot": "09/06/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-714.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi organique modifiant le statut des magistrats et relative au respect des victimes et de leurs droits",
       "role": "cosignataire",
       "senateur_slug": "margueritte_david21486b",
@@ -2650,6 +2640,16 @@
       "senateur_dept": "Manche",
       "date_depot": "09/06/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-715.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice",
+      "role": "cosignataire",
+      "senateur_slug": "margueritte_david21486b",
+      "senateur_nom": "David Margueritte",
+      "senateur_dept": "Manche",
+      "date_depot": "09/06/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-714.html"
     },
     {
       "type": "proposition_de_loi",
@@ -3003,16 +3003,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi organique modifiant le statut des magistrats et relative au respect des victimes et de leurs droits",
-      "role": "cosignataire",
-      "senateur_slug": "gosselin_beatrice20180f",
-      "senateur_nom": "Béatrice Gosselin",
-      "senateur_dept": "Manche",
-      "date_depot": "09/06/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-715.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice",
       "role": "cosignataire",
       "senateur_slug": "gosselin_beatrice20180f",
@@ -3020,6 +3010,16 @@
       "senateur_dept": "Manche",
       "date_depot": "09/06/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl25-714.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi organique modifiant le statut des magistrats et relative au respect des victimes et de leurs droits",
+      "role": "cosignataire",
+      "senateur_slug": "gosselin_beatrice20180f",
+      "senateur_nom": "Béatrice Gosselin",
+      "senateur_dept": "Manche",
+      "date_depot": "09/06/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-715.html"
     },
     {
       "type": "proposition_de_loi",
@@ -3443,16 +3443,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
-      "role": "cosignataire",
-      "senateur_slug": "gosselin_beatrice20180f",
-      "senateur_nom": "Béatrice Gosselin",
-      "senateur_dept": "Manche",
-      "date_depot": "11/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-324.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété",
       "role": "cosignataire",
       "senateur_slug": "gosselin_beatrice20180f",
@@ -3460,6 +3450,16 @@
       "senateur_dept": "Manche",
       "date_depot": "11/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-328.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
+      "role": "cosignataire",
+      "senateur_slug": "gosselin_beatrice20180f",
+      "senateur_nom": "Béatrice Gosselin",
+      "senateur_dept": "Manche",
+      "date_depot": "11/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-324.html"
     },
     {
       "type": "proposition_de_loi",
@@ -4383,16 +4383,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à reconnaître le génocide du peuple yézidi commis par Daech",
-      "role": "auteur",
-      "senateur_slug": "goulet_nathalie07004j",
-      "senateur_nom": "Nathalie Goulet",
-      "senateur_dept": "Orne",
-      "date_depot": "26/10/2026",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl26-100.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à la création d'une délégation parlementaire au numériquevisant à la création d'une délégation parlementaire au numérique",
       "role": "auteur",
       "senateur_slug": "goulet_nathalie07004j",
@@ -4400,6 +4390,16 @@
       "senateur_dept": "Orne",
       "date_depot": "26/10/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppl26-101.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à reconnaître le génocide du peuple yézidi commis par Daech",
+      "role": "auteur",
+      "senateur_slug": "goulet_nathalie07004j",
+      "senateur_nom": "Nathalie Goulet",
+      "senateur_dept": "Orne",
+      "date_depot": "26/10/2026",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl26-100.html"
     },
     {
       "type": "proposition_de_loi",
@@ -4813,16 +4813,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi portant sur la responsabilité des donneurs d'ordres vis à vis des sous-traitants, des emplois et des territoires",
-      "role": "cosignataire",
-      "senateur_slug": "brulin_celine19758l",
-      "senateur_nom": "Céline Brulin",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "07/11/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-125.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à instaurer une trajectoire de réduction de l'artificialisation concertée avec les élus locaux",
       "role": "cosignataire",
       "senateur_slug": "brulin_celine19758l",
@@ -4830,6 +4820,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "07/11/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-124.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi portant sur la responsabilité des donneurs d'ordres vis à vis des sous-traitants, des emplois et des territoires",
+      "role": "cosignataire",
+      "senateur_slug": "brulin_celine19758l",
+      "senateur_nom": "Céline Brulin",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "07/11/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-125.html"
     },
     {
       "type": "proposition_de_loi",
@@ -5163,16 +5163,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi relative à la reconnaissance du transport touristique cyclable",
-      "role": "auteur",
-      "senateur_slug": "canayer_agnes14053l",
-      "senateur_nom": "Agnès Canayer",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "21/03/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-474.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à compléter les dispositions applicables aux territoires littoraux et à renforcer l'équilibre entre l'aménagement et la préservation de la nature, des paysages et des sites",
       "role": "auteur",
       "senateur_slug": "canayer_agnes14053l",
@@ -5180,6 +5170,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "21/03/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-473.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi relative à la reconnaissance du transport touristique cyclable",
+      "role": "auteur",
+      "senateur_slug": "canayer_agnes14053l",
+      "senateur_nom": "Agnès Canayer",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "21/03/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-474.html"
     },
     {
       "type": "proposition_de_loi",
@@ -5993,13 +5993,13 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à réserver la vente de protoxyde d'azote aux seuls professionnels",
+      "titre": "Proposition de loi visant à favoriser une meilleure répartition de l'écofiscalité au bénéfice des collectivités territoriales",
       "role": "cosignataire",
       "senateur_slug": "marie_didier14001x",
       "senateur_nom": "Didier Marie",
       "senateur_dept": "Seine-Maritime",
       "date_depot": "13/11/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-125.html"
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-123.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6013,13 +6013,13 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à favoriser une meilleure répartition de l'écofiscalité au bénéfice des collectivités territoriales",
+      "titre": "Proposition de loi visant à réserver la vente de protoxyde d'azote aux seuls professionnels",
       "role": "cosignataire",
       "senateur_slug": "marie_didier14001x",
       "senateur_nom": "Didier Marie",
       "senateur_dept": "Seine-Maritime",
       "date_depot": "13/11/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl25-123.html"
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-125.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6273,16 +6273,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à revoir les conditions de reconnaissance des compétences médicales des praticiens à diplôme hors Union européenne sur la base de l'exercice professionnel",
-      "role": "cosignataire",
-      "senateur_slug": "marie_didier14001x",
-      "senateur_nom": "Didier Marie",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "13/03/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-443.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à lutter contre la précarisation des assistantes maternelles causée par les impayés",
       "role": "cosignataire",
       "senateur_slug": "marie_didier14001x",
@@ -6290,6 +6280,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "13/03/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-442.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à revoir les conditions de reconnaissance des compétences médicales des praticiens à diplôme hors Union européenne sur la base de l'exercice professionnel",
+      "role": "cosignataire",
+      "senateur_slug": "marie_didier14001x",
+      "senateur_nom": "Didier Marie",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "13/03/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-443.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6383,16 +6383,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer",
-      "role": "cosignataire",
-      "senateur_slug": "marie_didier14001x",
-      "senateur_nom": "Didier Marie",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "10/12/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-199.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer",
       "role": "cosignataire",
       "senateur_slug": "marie_didier14001x",
@@ -6400,6 +6390,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "10/12/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-198.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer",
+      "role": "cosignataire",
+      "senateur_slug": "marie_didier14001x",
+      "senateur_nom": "Didier Marie",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "10/12/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-199.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6433,16 +6433,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à instaurer une meilleure proportionnalité des effectifs des conseils municipaux pour les petites communes",
-      "role": "cosignataire",
-      "senateur_slug": "marie_didier14001x",
-      "senateur_nom": "Didier Marie",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "13/11/2024",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-139.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à favoriser la parité au sein des exécutifs des intercommunalités",
       "role": "cosignataire",
       "senateur_slug": "marie_didier14001x",
@@ -6450,6 +6440,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "13/11/2024",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-136.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à instaurer une meilleure proportionnalité des effectifs des conseils municipaux pour les petites communes",
+      "role": "cosignataire",
+      "senateur_slug": "marie_didier14001x",
+      "senateur_nom": "Didier Marie",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "13/11/2024",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-139.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6703,16 +6703,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à compléter les dispositions applicables aux territoires littoraux et à renforcer l'équilibre entre l'aménagement et la préservation de la nature, des paysages et des sites",
-      "role": "cosignataire",
-      "senateur_slug": "martin_pascal19826f",
-      "senateur_nom": "Pascal Martin",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "21/03/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-473.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi relative à la reconnaissance du transport touristique cyclable",
       "role": "cosignataire",
       "senateur_slug": "martin_pascal19826f",
@@ -6720,6 +6710,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "21/03/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-474.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à compléter les dispositions applicables aux territoires littoraux et à renforcer l'équilibre entre l'aménagement et la préservation de la nature, des paysages et des sites",
+      "role": "cosignataire",
+      "senateur_slug": "martin_pascal19826f",
+      "senateur_nom": "Pascal Martin",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "21/03/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-473.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6773,16 +6773,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à garantir la prééminence des principes républicains",
-      "role": "cosignataire",
-      "senateur_slug": "martin_pascal19826f",
-      "senateur_nom": "Pascal Martin",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "07/02/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-318.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi constitutionnelle visant à garantir la prééminence des lois de la République",
       "role": "cosignataire",
       "senateur_slug": "martin_pascal19826f",
@@ -6790,6 +6780,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "07/02/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-317.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à garantir la prééminence des principes républicains",
+      "role": "cosignataire",
+      "senateur_slug": "martin_pascal19826f",
+      "senateur_nom": "Pascal Martin",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "07/02/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-318.html"
     },
     {
       "type": "proposition_de_loi",
@@ -6873,16 +6873,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de résolution Cadre européen de certification  de cybersécurité 2",
-      "role": "auteur",
-      "senateur_slug": "morin_desailly_catherine04070g",
-      "senateur_nom": "Catherine Morin-Desailly",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": null,
-      "url": "https://www.senat.fr/dossier-legislatif/ppr25-624.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de résolution Règlement omnibus numérique",
       "role": "auteur",
       "senateur_slug": "morin_desailly_catherine04070g",
@@ -6890,6 +6880,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "13/05/2026",
       "url": "https://www.senat.fr/dossier-legislatif/ppr25-625.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de résolution Cadre européen de certification  de cybersécurité 2",
+      "role": "auteur",
+      "senateur_slug": "morin_desailly_catherine04070g",
+      "senateur_nom": "Catherine Morin-Desailly",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": null,
+      "url": "https://www.senat.fr/dossier-legislatif/ppr25-624.html"
     },
     {
       "type": "proposition_de_loi",
@@ -7113,16 +7113,6 @@
     },
     {
       "type": "proposition_de_loi",
-      "titre": "Proposition de loi visant à faciliter la mobilité des chiens d'assistance accompagnant les militaires en état de stress post-traumatique",
-      "role": "cosignataire",
-      "senateur_slug": "morin_desailly_catherine04070g",
-      "senateur_nom": "Catherine Morin-Desailly",
-      "senateur_dept": "Seine-Maritime",
-      "date_depot": "15/01/2025",
-      "url": "https://www.senat.fr/dossier-legislatif/ppl24-241.html"
-    },
-    {
-      "type": "proposition_de_loi",
       "titre": "Proposition de loi visant à retirer les produits du bois de la responsabilité élargie du producteur produits et matériaux de construction du secteur du bâtiment (PMCB)",
       "role": "cosignataire",
       "senateur_slug": "morin_desailly_catherine04070g",
@@ -7130,6 +7120,16 @@
       "senateur_dept": "Seine-Maritime",
       "date_depot": "15/01/2025",
       "url": "https://www.senat.fr/dossier-legislatif/ppl24-242.html"
+    },
+    {
+      "type": "proposition_de_loi",
+      "titre": "Proposition de loi visant à faciliter la mobilité des chiens d'assistance accompagnant les militaires en état de stress post-traumatique",
+      "role": "cosignataire",
+      "senateur_slug": "morin_desailly_catherine04070g",
+      "senateur_nom": "Catherine Morin-Desailly",
+      "senateur_dept": "Seine-Maritime",
+      "date_depot": "15/01/2025",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-241.html"
     },
     {
       "type": "proposition_de_loi",
