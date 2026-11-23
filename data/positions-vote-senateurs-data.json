@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-11-16T14:17:29.918948",
+  "generated_at": "2026-11-23T16:49:57.664656",
   "source": "https://nosparlementaires.fr/donnees-ouvertes (données dérivées de l'Open Data du Sénat)",
   "positions_vote": [
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-145",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions",
+      "scrutin_date": "2026-11-19",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-145.html",
+      "dossier_ref": "75585",
+      "votants": 342,
+      "suffrages_exprimes": 315,
+      "pour": 205,
+      "contre": 110,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "ABSTENTION",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": false
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-133",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant",
+      "scrutin_date": "2026-11-18",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-133.html",
+      "dossier_ref": "83649",
+      "votants": 344,
+      "suffrages_exprimes": 344,
+      "pour": 344,
+      "contre": 0,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-118",
+      "scrutin_titre": "sur l'ensemble du projet de loi de financement de la sécurité sociale pour 2027",
+      "scrutin_date": "2026-11-17",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-118.html",
+      "dossier_ref": "86039",
+      "votants": 340,
+      "suffrages_exprimes": 325,
+      "pour": 201,
+      "contre": 124,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
+    {
+      "type": "scrutin",
+      "scrutin_id": "2026-119",
+      "scrutin_titre": "sur l'ensemble du projet de loi de finances de fin de gestion pour 2026",
+      "scrutin_date": "2026-11-17",
+      "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-119.html",
+      "dossier_ref": "87439",
+      "votants": 343,
+      "suffrages_exprimes": 337,
+      "pour": 228,
+      "contre": 109,
+      "abstentions": 0,
+      "positions": [
+        {
+          "senateur_slug": "canayer_agnes14053l",
+          "senateur_nom": "Agnès Canayer",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "gosselin_beatrice20180f",
+          "senateur_nom": "Béatrice Gosselin",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "morin_desailly_catherine04070g",
+          "senateur_nom": "Catherine Morin-Desailly",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "brulin_celine19758l",
+          "senateur_nom": "Céline Brulin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Communiste Républicain Citoyen et Écologiste - Kanaky",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "feret_corinne14281w",
+          "senateur_nom": "Corinne Féret",
+          "senateur_dept": "Calvados",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "margueritte_david21486b",
+          "senateur_nom": "David Margueritte",
+          "senateur_dept": "Manche",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "maurey_herve08009t",
+          "senateur_nom": "Hervé Maurey",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "pluchet_kristina20118y",
+          "senateur_nom": "Kristina Pluchet",
+          "senateur_dept": "Eure",
+          "position": "POUR",
+          "groupe_politique": "Groupe Les Républicains",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "goulet_nathalie07004j",
+          "senateur_nom": "Nathalie Goulet",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "bitz_olivier21043b",
+          "senateur_nom": "Olivier Bitz",
+          "senateur_dept": "Orne",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "martin_pascal19826f",
+          "senateur_nom": "Pascal Martin",
+          "senateur_dept": "Seine-Maritime",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "fagnen_sebastien21062e",
+          "senateur_nom": "Sébastien Fagnen",
+          "senateur_dept": "Manche",
+          "position": "CONTRE",
+          "groupe_politique": "Groupe Socialiste, Écologiste et Républicain",
+          "position_majoritaire_groupe": "CONTRE",
+          "vote_comme_son_groupe": true
+        },
+        {
+          "senateur_slug": "de_la_provote_sonia19735d",
+          "senateur_nom": "Sonia de La Provôté",
+          "senateur_dept": "Calvados",
+          "position": "POUR",
+          "groupe_politique": "Groupe Union Centriste et Indépendants",
+          "position_majoritaire_groupe": "POUR",
+          "vote_comme_son_groupe": true
+        }
+      ]
+    },
     {
       "type": "scrutin",
       "scrutin_id": "2026-101",
@@ -269,7 +797,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-50",
-      "scrutin_titre": "sur larticle unique constituant lensemble de la proposition de loi visant à protéger les demandeurs de logement contre les sollicitations sexuelles abusives",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble de la proposition de loi visant à protéger les demandeurs de logement contre les sollicitations sexuelles abusives",
       "scrutin_date": "2026-11-04",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-50.html",
       "dossier_ref": "84220",
@@ -401,7 +929,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-49",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice",
       "scrutin_date": "2026-11-03",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-49.html",
       "dossier_ref": "83620",
@@ -797,7 +1325,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-41",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l'espace public et au recouvrement des dommages et intérêts",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l'espace public et au recouvrement des dommages et intérêts",
       "scrutin_date": "2026-10-26",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-41.html",
       "dossier_ref": "85760",
@@ -1061,7 +1589,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-28",
-      "scrutin_titre": "sur larticle unique constituant lensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
       "scrutin_date": "2026-10-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-28.html",
       "dossier_ref": "75906",
@@ -1193,7 +1721,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-25",
-      "scrutin_titre": "sur lensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs",
       "scrutin_date": "2026-10-20",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-25.html",
       "dossier_ref": "78213",
@@ -1325,7 +1853,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-19",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant abrogation du « code noir »",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant abrogation du « code noir »",
       "scrutin_date": "2026-10-19",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-19.html",
       "dossier_ref": "77190",
@@ -1721,7 +2249,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-10",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
       "scrutin_date": "2026-10-18",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-10.html",
       "dossier_ref": "75954",
@@ -1853,7 +2381,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2026-9",
-      "scrutin_titre": "sur lensemble de la proposition de loi pour l'égalité d'accès aux soins des Ultramarins sur l'ensemble du territoire national",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi pour l'égalité d'accès aux soins des Ultramarins sur l'ensemble du territoire national",
       "scrutin_date": "2026-10-18",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2026/scr2026-9.html",
       "dossier_ref": "79890",
@@ -1985,7 +2513,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-336",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à lorganisation, à la gestion et au financement du sport professionnel",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à l’organisation, à la gestion et au financement du sport professionnel",
       "scrutin_date": "2026-07-20",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-336.html",
       "dossier_ref": "76160",
@@ -2321,7 +2849,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-338",
-      "scrutin_titre": "sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant lordre public, la sécurité et la tranquillité de nos concitoyens",
+      "scrutin_titre": "sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
       "scrutin_date": "2026-07-20",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-338.html",
       "dossier_ref": "82101",
@@ -3161,7 +3689,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-327",
-      "scrutin_titre": "sur lensemble du projet de loi durgence pour la protection et la souveraineté agricoles",
+      "scrutin_titre": "sur l’ensemble du projet de loi d’urgence pour la protection et la souveraineté agricoles",
       "scrutin_date": "2026-07-01",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-327.html",
       "dossier_ref": "82340",
@@ -3497,7 +4025,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-316",
-      "scrutin_titre": "sur lensemble du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2025",
+      "scrutin_titre": "sur l’ensemble du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2025",
       "scrutin_date": "2026-06-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-316.html",
       "dossier_ref": "82881",
@@ -3665,7 +4193,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-317",
-      "scrutin_titre": "sur lensemble du projet de loi portant approbation des comptes de la sécurité sociale de lannée 2025",
+      "scrutin_titre": "sur l’ensemble du projet de loi portant approbation des comptes de la sécurité sociale de l’année 2025",
       "scrutin_date": "2026-06-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-317.html",
       "dossier_ref": "83481",
@@ -3833,7 +4361,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-314",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant diverses dispositions dadaptation du droit des outre-mer",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant diverses dispositions d’adaptation du droit des outre-mer",
       "scrutin_date": "2026-06-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-314.html",
       "dossier_ref": "75524",
@@ -4169,7 +4697,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-313",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984",
       "scrutin_date": "2026-06-15",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-313.html",
       "dossier_ref": "76268",
@@ -4505,7 +5033,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-304",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à remobiliser le bâti rural",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à remobiliser le bâti rural",
       "scrutin_date": "2026-06-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-304.html",
       "dossier_ref": "81620",
@@ -4841,7 +5369,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-293",
-      "scrutin_titre": "sur lensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "scrutin_titre": "sur l’ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
       "scrutin_date": "2026-06-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-293.html",
       "dossier_ref": "82341",
@@ -5009,7 +5537,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-294",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à garantir la neutralité financière du don d'organes et d'autres éléments et produits du corps humain par les vivants",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à garantir la neutralité financière du don d'organes et d'autres éléments et produits du corps humain par les vivants",
       "scrutin_date": "2026-06-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-294.html",
       "dossier_ref": "82039",
@@ -5177,7 +5705,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-298",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à exercer l'accès à l'emploi, à pérenniser et à étendre progressivement l'expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l'emploi pour les personnes privées durablement d'emploi",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à exercer l'accès à l'emploi, à pérenniser et à étendre progressivement l'expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l'emploi pour les personnes privées durablement d'emploi",
       "scrutin_date": "2026-06-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-298.html",
       "dossier_ref": "76397",
@@ -6017,7 +6545,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-275",
-      "scrutin_titre": "sur lensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "scrutin_titre": "sur l’ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
       "scrutin_date": "2026-05-25",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-275.html",
       "dossier_ref": "82101",
@@ -6185,7 +6713,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-266",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à la sortie des collections publiques de restes humains kali'nas et arawaks en vue de funérailles sur le territoire de la Guyane",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à la sortie des collections publiques de restes humains kali'nas et arawaks en vue de funérailles sur le territoire de la Guyane",
       "scrutin_date": "2026-05-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-266.html",
       "dossier_ref": "75067",
@@ -6353,7 +6881,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-270",
-      "scrutin_titre": "sur larticle unique constituant l'ensemble du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage (deuxième lecture)",
+      "scrutin_titre": "sur l’article unique constituant l'ensemble du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage (deuxième lecture)",
       "scrutin_date": "2026-05-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-270.html",
       "dossier_ref": "82100",
@@ -6521,7 +7049,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-273",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
       "scrutin_date": "2026-05-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-273.html",
       "dossier_ref": "76570",
@@ -6857,7 +7385,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-251",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs (deuxième lecture)",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs (deuxième lecture)",
       "scrutin_date": "2026-05-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-251.html",
       "dossier_ref": "76129",
@@ -7025,7 +7553,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-249",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi relatif à la restitution de biens culturels ayant fait lobjet dune appropriation illicite",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi relatif à la restitution de biens culturels ayant fait l’objet d’une appropriation illicite",
       "scrutin_date": "2026-05-06",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-249.html",
       "dossier_ref": "77000",
@@ -7193,7 +7721,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-239",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à donner aux acteurs locaux les moyens de lutter contre la cabanisation",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à donner aux acteurs locaux les moyens de lutter contre la cabanisation",
       "scrutin_date": "2026-05-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-239.html",
       "dossier_ref": "82059",
@@ -7361,7 +7889,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-240",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations",
       "scrutin_date": "2026-05-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-240.html",
       "dossier_ref": "75703",
@@ -7529,7 +8057,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-238",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à lutter contre l'entrisme islamiste en France",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à lutter contre l'entrisme islamiste en France",
       "scrutin_date": "2026-05-04",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-238.html",
       "dossier_ref": "81999",
@@ -8033,7 +8561,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-230",
-      "scrutin_titre": "sur lensemble du projet de loi sur la justice criminelle et le respect des victimes",
+      "scrutin_titre": "sur l’ensemble du projet de loi sur la justice criminelle et le respect des victimes",
       "scrutin_date": "2026-04-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-230.html",
       "dossier_ref": "82019",
@@ -8201,7 +8729,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-231",
-      "scrutin_titre": "sur lensemble du projet de loi organique relatif au renforcement des juridictions criminelles",
+      "scrutin_titre": "sur l’ensemble du projet de loi organique relatif au renforcement des juridictions criminelles",
       "scrutin_date": "2026-04-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-231.html",
       "dossier_ref": "82020",
@@ -8369,7 +8897,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-226",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à mettre fin au devoir conjugal",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à mettre fin au devoir conjugal",
       "scrutin_date": "2026-04-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-226.html",
       "dossier_ref": "79144",
@@ -8537,7 +9065,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-223",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant au renforcement de lattractivité de lépargne salariale et à la mise en uvre dune procédure de déblocage exceptionnelle",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant au renforcement de l’attractivité de l’épargne salariale et à la mise en œuvre d’une procédure de déblocage exceptionnelle",
       "scrutin_date": "2026-04-06",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-223.html",
       "dossier_ref": "80599",
@@ -8705,7 +9233,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-224",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant une gouvernance claire, juste et solidaire pour la gestion des milieux aquatiques et la prévention des inondations (GEMAPI)",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant une gouvernance claire, juste et solidaire pour la gestion des milieux aquatiques et la prévention des inondations (GEMAPI)",
       "scrutin_date": "2026-04-06",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-224.html",
       "dossier_ref": "80419",
@@ -8873,7 +9401,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-221",
-      "scrutin_titre": "sur larticle unique constituant lensemble du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage",
       "scrutin_date": "2026-03-31",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-221.html",
       "dossier_ref": "82100",
@@ -9041,7 +9569,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-217",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à soutenir et valoriser les commerces de proximité",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à soutenir et valoriser les commerces de proximité",
       "scrutin_date": "2026-03-24",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-217.html",
       "dossier_ref": "78999",
@@ -9209,7 +9737,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-214",
-      "scrutin_titre": "sur lensemble de la proposition de loi constitutionnelle visant à préciser la procédure d'examen des textes budgétaires, à renforcer la place du Parlement et à sécuriser le périmètre et la constitutionnalité des dispositions mises en uvre par les ordonnances mentionnées aux articles 47 et 47-1 de la Constitution",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi constitutionnelle visant à préciser la procédure d'examen des textes budgétaires, à renforcer la place du Parlement et à sécuriser le périmètre et la constitutionnalité des dispositions mises en œuvre par les ordonnances mentionnées aux articles 47 et 47-1 de la Constitution",
       "scrutin_date": "2026-02-25",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-214.html",
       "dossier_ref": "79819",
@@ -9377,7 +9905,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-202",
-      "scrutin_titre": "sur larticle 1er constituant lensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France",
+      "scrutin_titre": "sur l’article 1er constituant l’ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France",
       "scrutin_date": "2026-02-24",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-202.html",
       "dossier_ref": "77779",
@@ -9545,7 +10073,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-201",
-      "scrutin_titre": "sur lensemble du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie",
+      "scrutin_titre": "sur l’ensemble du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie",
       "scrutin_date": "2026-02-23",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-201.html",
       "dossier_ref": "77722",
@@ -9713,7 +10241,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-196",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
       "scrutin_date": "2026-02-18",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-196.html",
       "dossier_ref": "76577",
@@ -10217,7 +10745,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-193",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à la création dun centre hospitalier universitaire en Corse",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à la création d’un centre hospitalier universitaire en Corse",
       "scrutin_date": "2026-02-11",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-193.html",
       "dossier_ref": "75132",
@@ -10385,7 +10913,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-184",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à l'extension des prérogatives, des moyens, de l'organisation et du contrôle des polices municipales et des gardes champêtres",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à l'extension des prérogatives, des moyens, de l'organisation et du contrôle des polices municipales et des gardes champêtres",
       "scrutin_date": "2026-02-09",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-184.html",
       "dossier_ref": "78219",
@@ -10721,7 +11249,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-186",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à la lutte contre les installations illicites des gens du voyage",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à la lutte contre les installations illicites des gens du voyage",
       "scrutin_date": "2026-02-09",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-186.html",
       "dossier_ref": "79560",
@@ -10889,7 +11417,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-183",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à faciliter la création et le fonctionnement des communes nouvelles",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à faciliter la création et le fonctionnement des communes nouvelles",
       "scrutin_date": "2026-02-04",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-183.html",
       "dossier_ref": "80102",
@@ -11225,7 +11753,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-178",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à lever, dans les territoires doutre-mer, linterdiction de recherche, dexploration et dexploitation des hydrocarbures",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à lever, dans les territoires d’outre-mer, l’interdiction de recherche, d’exploration et d’exploitation des hydrocarbures",
       "scrutin_date": "2026-01-28",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-178.html",
       "dossier_ref": "79220",
@@ -11393,7 +11921,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-169",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative au droit à l'aide à mourir",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative au droit à l'aide à mourir",
       "scrutin_date": "2026-01-27",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-169.html",
       "dossier_ref": "76127",
@@ -11561,7 +12089,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-170",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
       "scrutin_date": "2026-01-27",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-170.html",
       "dossier_ref": "76129",
@@ -11729,7 +12257,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-171",
-      "scrutin_titre": "sur l'ensemble du projet de loi autorisant lapprobation de laccord entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan sur la réadmission des personnes",
+      "scrutin_titre": "sur l'ensemble du projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan sur la réadmission des personnes",
       "scrutin_date": "2026-01-27",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-171.html",
       "dossier_ref": "79759",
@@ -12233,7 +12761,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-146",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à la confidentialité des consultations des juristes d'entreprise",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à la confidentialité des consultations des juristes d'entreprise",
       "scrutin_date": "2026-01-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-146.html",
       "dossier_ref": "73567",
@@ -12569,7 +13097,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-132",
-      "scrutin_titre": "sur larticle 2 constituant l'ensemble de la proposition de loi visant à garantir la continuité des revenus des artistes auteurs",
+      "scrutin_titre": "sur l’article 2 constituant l'ensemble de la proposition de loi visant à garantir la continuité des revenus des artistes auteurs",
       "scrutin_date": "2025-12-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-132.html",
       "dossier_ref": "75365",
@@ -12905,7 +13433,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-128",
-      "scrutin_titre": "sur l'ensemble de la proposition de résolution européenne en application de l'article 73 quinquies C du Règlement, visant à demander au Gouvernement français de saisir la Cour de justice de lUnion européenne pour empêcher la ratification de laccord avec le Mercosur",
+      "scrutin_titre": "sur l'ensemble de la proposition de résolution européenne en application de l'article 73 quinquies C du Règlement, visant à demander au Gouvernement français de saisir la Cour de justice de l’Union européenne pour empêcher la ratification de l’accord avec le Mercosur",
       "scrutin_date": "2025-12-15",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-128.html",
       "dossier_ref": "78260",
@@ -13913,7 +14441,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-29",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
       "scrutin_date": "2025-11-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-29.html",
       "dossier_ref": "77721",
@@ -14081,7 +14609,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-22",
-      "scrutin_titre": "sur larticle unique constituant lensemble de la proposition de loi créant la profession dassistant en santé bucco-dentaire",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble de la proposition de loi créant la profession d’assistant en santé bucco-dentaire",
       "scrutin_date": "2025-11-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-22.html",
       "dossier_ref": "77459",
@@ -14249,7 +14777,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-23",
-      "scrutin_titre": "sur larticle unique constituant lensemble de la proposition de loi constitutionnelle visant à protéger la Constitution, en limitant sa révision à la voie de l'article 89",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble de la proposition de loi constitutionnelle visant à protéger la Constitution, en limitant sa révision à la voie de l'article 89",
       "scrutin_date": "2025-11-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-23.html",
       "dossier_ref": "76459",
@@ -15593,7 +16121,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2025-2",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion sur l'accord du 12 juillet 2025 et sa mise en uvre",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion sur l'accord du 12 juillet 2025 et sa mise en œuvre",
       "scrutin_date": "2025-10-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2025/scr2025-2.html",
       "dossier_ref": "77019",
@@ -17105,7 +17633,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-335",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à lever les contraintes à lexercice du métier d'agriculteur",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à lever les contraintes à l’exercice du métier d'agriculteur",
       "scrutin_date": "2025-07-01",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-335.html",
       "dossier_ref": "75364",
@@ -20969,7 +21497,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-268",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi tendant à confier à l'Office français de limmigration et de lintégration certaines tâches daccueil et dinformation des personnes retenues",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi tendant à confier à l'Office français de l’immigration et de l’intégration certaines tâches d’accueil et d’information des personnes retenues",
       "scrutin_date": "2025-05-11",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-268.html",
       "dossier_ref": "76188",
@@ -21137,7 +21665,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-265",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture)",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture)",
       "scrutin_date": "2025-05-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-265.html",
       "dossier_ref": "69842",
@@ -21977,7 +22505,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-258",
-      "scrutin_titre": "sur lensemble de la proposition de résolution tendant à renforcer les moyens de contrôle des sénateurs, conforter les droits des groupes politiques, et portant diverses mesures de clarification et de simplification",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution tendant à renforcer les moyens de contrôle des sénateurs, conforter les droits des groupes politiques, et portant diverses mesures de clarification et de simplification",
       "scrutin_date": "2025-04-07",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-258.html",
       "dossier_ref": "75943",
@@ -24329,7 +24857,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-225",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à renforcer la parité dans les fonctions électives et exécutives du bloc communal",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à renforcer la parité dans les fonctions électives et exécutives du bloc communal",
       "scrutin_date": "2025-03-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-225.html",
       "dossier_ref": "68434",
@@ -24497,7 +25025,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-226",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
       "scrutin_date": "2025-03-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-226.html",
       "dossier_ref": "75084",
@@ -24665,7 +25193,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-213",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à protéger l'école de la République et les personnels qui y travaillent",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à protéger l'école de la République et les personnels qui y travaillent",
       "scrutin_date": "2025-03-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-213.html",
       "dossier_ref": "75738",
@@ -26264,7 +26792,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-185",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à sortir la France du piège du narcotrafic",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic",
       "scrutin_date": "2025-02-03",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-185.html",
       "dossier_ref": "74675",
@@ -26423,7 +26951,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-186",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique fixant le statut du procureur national anti-stupéfiants",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique fixant le statut du procureur national anti-stupéfiants",
       "scrutin_date": "2025-02-03",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-186.html",
       "dossier_ref": "75627",
@@ -26741,7 +27269,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-183",
-      "scrutin_titre": "sur lensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, appelant à l'introduction de la proportionnelle pour les élections législatives",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, appelant à l'introduction de la proportionnelle pour les élections législatives",
       "scrutin_date": "2025-01-29",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-183.html",
       "dossier_ref": "75506",
@@ -27059,7 +27587,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-181",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur",
       "scrutin_date": "2025-01-26",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-181.html",
       "dossier_ref": "75364",
@@ -27218,7 +27746,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-176",
-      "scrutin_titre": "sur lensemble du texte élaboré par la commission mixte paritaire sur le projet de loi de financement de la sécurité sociale pour 2025",
+      "scrutin_titre": "sur l’ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi de financement de la sécurité sociale pour 2025",
       "scrutin_date": "2025-01-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-176.html",
       "dossier_ref": "75110",
@@ -27818,7 +28346,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-84",
-      "scrutin_titre": "sur lensemble du projet de loi de financement de la sécurité sociale pour 2025",
+      "scrutin_titre": "sur l’ensemble du projet de loi de financement de la sécurité sociale pour 2025",
       "scrutin_date": "2024-11-25",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-84.html",
       "dossier_ref": "75110",
@@ -27968,7 +28496,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-78",
-      "scrutin_titre": "sur lensemble du projet de loi de finances de fin de gestion pour 2024",
+      "scrutin_titre": "sur l’ensemble du projet de loi de finances de fin de gestion pour 2024",
       "scrutin_date": "2024-11-24",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-78.html",
       "dossier_ref": "75383",
@@ -28118,7 +28646,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-76",
-      "scrutin_titre": "sur lensemble de la troisième partie du projet de loi de financement de la sécurité sociale pour 2025",
+      "scrutin_titre": "sur l’ensemble de la troisième partie du projet de loi de financement de la sécurité sociale pour 2025",
       "scrutin_date": "2024-11-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-76.html",
       "dossier_ref": "75110",
@@ -28418,7 +28946,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-33",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à interdire le démarchage téléphonique",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à interdire le démarchage téléphonique",
       "scrutin_date": "2024-11-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-33.html",
       "dossier_ref": "75043",
@@ -28568,7 +29096,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-35",
-      "scrutin_titre": "sur larticle 12 constituant l'ensemble de la proposition de loi constitutionnelle visant à accélérer le redressement des finances publiques",
+      "scrutin_titre": "sur l’article 12 constituant l'ensemble de la proposition de loi constitutionnelle visant à accélérer le redressement des finances publiques",
       "scrutin_date": "2024-11-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-35.html",
       "dossier_ref": "75044",
@@ -28718,7 +29246,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-36",
-      "scrutin_titre": "sur lensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, visant à condamner les actions des rebelles houthis en mer Rouge et à appeler à une action internationale pour protéger le commerce maritime et lenvironnement dans cette zone",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, visant à condamner les actions des rebelles houthis en mer Rouge et à appeler à une action internationale pour protéger le commerce maritime et l’environnement dans cette zone",
       "scrutin_date": "2024-11-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-36.html",
       "dossier_ref": "75063",
@@ -29018,7 +29546,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-30",
-      "scrutin_titre": "sur lensemble du projet de loi autorisant la ratification de l'accord se rapportant à la convention des Nations unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale",
+      "scrutin_titre": "sur l’ensemble du projet de loi autorisant la ratification de l'accord se rapportant à la convention des Nations unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale",
       "scrutin_date": "2024-11-04",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-30.html",
       "dossier_ref": "74425",
@@ -29168,7 +29696,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-26",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant la prise en charge intégrale des soins liés au traitement du cancer du sein par l'assurance maladie",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant la prise en charge intégrale des soins liés au traitement du cancer du sein par l'assurance maladie",
       "scrutin_date": "2024-10-29",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-26.html",
       "dossier_ref": "74246",
@@ -29318,7 +29846,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-28",
-      "scrutin_titre": "sur lensemble de la proposition de loi constitutionnelle instaurant une Charte des services publics",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi constitutionnelle instaurant une Charte des services publics",
       "scrutin_date": "2024-10-29",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-28.html",
       "dossier_ref": "74885",
@@ -29468,7 +29996,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-25",
-      "scrutin_titre": "sur lensemble la proposition de loi visant à assurer l'équilibre du régime d'indemnisation des catastrophes naturelles",
+      "scrutin_titre": "sur l’ensemble la proposition de loi visant à assurer l'équilibre du régime d'indemnisation des catastrophes naturelles",
       "scrutin_date": "2024-10-28",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-25.html",
       "dossier_ref": "74465",
@@ -29618,7 +30146,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-22",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie",
       "scrutin_date": "2024-10-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-22.html",
       "dossier_ref": "74884",
@@ -29768,7 +30296,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-23",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique portant réforme du financement de l'audiovisuel public",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique portant réforme du financement de l'audiovisuel public",
       "scrutin_date": "2024-10-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-23.html",
       "dossier_ref": "74663",
@@ -30068,7 +30596,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-20",
-      "scrutin_titre": "sur larticle 9 constituant lensemble du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2023",
+      "scrutin_titre": "sur l’article 9 constituant l’ensemble du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2023",
       "scrutin_date": "2024-10-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-20.html",
       "dossier_ref": "74683",
@@ -30218,7 +30746,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-16",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à mettre à contribution les Ehpad privés à but lucratif réalisant des profits excessifs",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à mettre à contribution les Ehpad privés à but lucratif réalisant des profits excessifs",
       "scrutin_date": "2024-10-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-16.html",
       "dossier_ref": "74552",
@@ -30377,7 +30905,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-18",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à assouplir la gestion des compétences « eau » et « assainissement »",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à assouplir la gestion des compétences « eau » et « assainissement »",
       "scrutin_date": "2024-10-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-18.html",
       "dossier_ref": "74304",
@@ -30854,7 +31382,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2024-7",
-      "scrutin_titre": "sur larticle 2 constituant l'ensemble de la proposition de loi visant à assurer la mixité sociale et scolaire dans les établissements d'enseignement publics et privés sous contrat du premier et du second degrés et à garantir davantage de transparence dans les procédures d'affectation et de financement des établissements privés sous contrat",
+      "scrutin_titre": "sur l’article 2 constituant l'ensemble de la proposition de loi visant à assurer la mixité sociale et scolaire dans les établissements d'enseignement publics et privés sous contrat du premier et du second degrés et à garantir davantage de transparence dans les procédures d'affectation et de financement des établissements privés sous contrat",
       "scrutin_date": "2024-10-09",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2024/scr2024-7.html",
       "dossier_ref": "74129",
@@ -31013,7 +31541,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-205",
-      "scrutin_titre": "sur larticle 1er constituant lensemble de la proposition de loi ouvrant la possibilité de concilier une activité professionnelle avec la fonction dassistant familial",
+      "scrutin_titre": "sur l’article 1er constituant l’ensemble de la proposition de loi ouvrant la possibilité de concilier une activité professionnelle avec la fonction d’assistant familial",
       "scrutin_date": "2024-05-28",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-205.html",
       "dossier_ref": "74186",
@@ -31172,7 +31700,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-204",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à encadrer les pratiques médicales mises en uvre dans la prise en charge des mineurs en questionnement de genre",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à encadrer les pratiques médicales mises en œuvre dans la prise en charge des mineurs en questionnement de genre",
       "scrutin_date": "2024-05-27",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-204.html",
       "dossier_ref": "74092",
@@ -31649,7 +32177,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-172",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à concilier la continuité du service public de transports avec l'exercice du droit de grève",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à concilier la continuité du service public de transports avec l'exercice du droit de grève",
       "scrutin_date": "2024-04-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-172.html",
       "dossier_ref": "73884",
@@ -32285,7 +32813,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-168",
-      "scrutin_titre": "sur lensemble du projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
+      "scrutin_titre": "sur l’ensemble du projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
       "scrutin_date": "2024-04-01",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-168.html",
       "dossier_ref": "73786",
@@ -33239,7 +33767,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-156",
-      "scrutin_titre": "sur lensemble du projet de loi ratifiant l'ordonnance n° 2023-285 du 19 avril 2023 portant extension et adaptation à la Polynésie française, à la Nouvelle-Calédonie et aux îles Wallis et Futuna de diverses dispositions législatives relatives à la santé",
+      "scrutin_titre": "sur l’ensemble du projet de loi ratifiant l'ordonnance n° 2023-285 du 19 avril 2023 portant extension et adaptation à la Polynésie française, à la Nouvelle-Calédonie et aux îles Wallis et Futuna de diverses dispositions législatives relatives à la santé",
       "scrutin_date": "2024-03-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-156.html",
       "dossier_ref": "73365",
@@ -33398,7 +33926,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-154",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques",
       "scrutin_date": "2024-03-11",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-154.html",
       "dossier_ref": "72685",
@@ -33716,7 +34244,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-141",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative au financement des entreprises de la base industrielle et technologique de défense française",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative au financement des entreprises de la base industrielle et technologique de défense française",
       "scrutin_date": "2024-03-04",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-141.html",
       "dossier_ref": "73484",
@@ -33875,7 +34403,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-136",
-      "scrutin_titre": "sur larticle unique constituant lensemble du projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse",
+      "scrutin_titre": "sur l’article unique constituant l’ensemble du projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse",
       "scrutin_date": "2024-02-27",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-136.html",
       "dossier_ref": "73485",
@@ -34352,7 +34880,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-131",
-      "scrutin_titre": "sur larticle 4 constituant l'ensemble de la proposition de loi visant à améliorer et garantir la santé et le bien-être des femmes au travail",
+      "scrutin_titre": "sur l’article 4 constituant l'ensemble de la proposition de loi visant à améliorer et garantir la santé et le bien-être des femmes au travail",
       "scrutin_date": "2024-02-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-131.html",
       "dossier_ref": "71962",
@@ -34511,7 +35039,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-123",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à garantir la confidentialité des consultations juridiques des juristes dentreprise",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi visant à garantir la confidentialité des consultations juridiques des juristes d’entreprise",
       "scrutin_date": "2024-02-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-123.html",
       "dossier_ref": "73342",
@@ -34988,7 +35516,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-120",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative au renforcement de la sûreté dans les transports",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports",
       "scrutin_date": "2024-02-12",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-120.html",
       "dossier_ref": "73603",
@@ -35147,7 +35675,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-115",
-      "scrutin_titre": "sur lensemble de la proposition de loi portant mesures pour bâtir la société du bien-vieillir en France",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi portant mesures pour bâtir la société du bien-vieillir en France",
       "scrutin_date": "2024-02-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-115.html",
       "dossier_ref": "70745",
@@ -35306,7 +35834,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-117",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative au régime juridique des actions de groupe",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative au régime juridique des actions de groupe",
       "scrutin_date": "2024-02-05",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-117.html",
       "dossier_ref": "70741",
@@ -35465,7 +35993,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-114",
-      "scrutin_titre": "sur lensemble de la proposition de loi instituant des mesures judiciaires de sûreté applicables aux condamnés terroristes et renforçant la lutte antiterroriste",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi instituant des mesures judiciaires de sûreté applicables aux condamnés terroristes et renforçant la lutte antiterroriste",
       "scrutin_date": "2024-01-29",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-114.html",
       "dossier_ref": "73503",
@@ -35624,7 +36152,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-113",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à améliorer le dépistage des troubles du neuro-développement, l'accompagnement des personnes qui en sont atteintes et le répit de leurs proches aidants",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à améliorer le dépistage des troubles du neuro-développement, l'accompagnement des personnes qui en sont atteintes et le répit de leurs proches aidants",
       "scrutin_date": "2024-01-24",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-113.html",
       "dossier_ref": "72843",
@@ -36101,7 +36629,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-109",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi pour contrôler limmigration, améliorer lintégration",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi pour contrôler l’immigration, améliorer l’intégration",
       "scrutin_date": "2023-12-18",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-109.html",
       "dossier_ref": "71145",
@@ -36260,7 +36788,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-104",
-      "scrutin_titre": "sur lensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi relative à l'ouverture à la concurrence du réseau de bus francilien de la RATP",
+      "scrutin_titre": "sur l’ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi relative à l'ouverture à la concurrence du réseau de bus francilien de la RATP",
       "scrutin_date": "2023-12-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-104.html",
       "dossier_ref": "73072",
@@ -37214,7 +37742,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-103",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à l'entretien régulier de relations personnelles entre l'enfant et ses parents en cas de séparation de ces derniers",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à l'entretien régulier de relations personnelles entre l'enfant et ses parents en cas de séparation de ces derniers",
       "scrutin_date": "2023-12-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-103.html",
       "dossier_ref": "68706",
@@ -38009,7 +38537,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-64",
-      "scrutin_titre": "sur lensemble de la proposition de loi constitutionnelle visant à faciliter le déclenchement du référendum d'initiative partagée",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi constitutionnelle visant à faciliter le déclenchement du référendum d'initiative partagée",
       "scrutin_date": "2023-11-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-64.html",
       "dossier_ref": "72125",
@@ -38327,7 +38855,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-56",
-      "scrutin_titre": "sur lensemble du projet de loi de financement de la sécurité sociale pour 2024",
+      "scrutin_titre": "sur l’ensemble du projet de loi de financement de la sécurité sociale pour 2024",
       "scrutin_date": "2023-11-20",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-56.html",
       "dossier_ref": "73066",
@@ -38645,7 +39173,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-46",
-      "scrutin_titre": "sur lensemble de la deuxième partie du projet de loi de financement de la sécurité sociale pour 2024",
+      "scrutin_titre": "sur l’ensemble de la deuxième partie du projet de loi de financement de la sécurité sociale pour 2024",
       "scrutin_date": "2023-11-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-46.html",
       "dossier_ref": "73066",
@@ -38804,7 +39332,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-43",
-      "scrutin_titre": "sur lensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration",
+      "scrutin_titre": "sur l’ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration",
       "scrutin_date": "2023-11-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-43.html",
       "dossier_ref": "71145",
@@ -40076,7 +40604,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-8",
-      "scrutin_titre": "sur lensemble de la proposition de loi relative à l'ouverture à la concurrence du réseau de bus francilien de la RATP",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi relative à l'ouverture à la concurrence du réseau de bus francilien de la RATP",
       "scrutin_date": "2023-10-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-8.html",
       "dossier_ref": "73072",
@@ -40235,7 +40763,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-5",
-      "scrutin_titre": "sur lensemble du projet de loi portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise",
+      "scrutin_titre": "sur l’ensemble du projet de loi portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise",
       "scrutin_date": "2023-10-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-5.html",
       "dossier_ref": "72323",
@@ -40712,7 +41240,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2023-3",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi relatif à lindustrie verte",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi relatif à l’industrie verte",
       "scrutin_date": "2023-10-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2023/scr2023-3.html",
       "dossier_ref": "72265",
@@ -40871,7 +41399,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-333",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à l'accélération de la reconstruction des bâtiments dégradés ou démolis au cours des violences urbaines survenues du 27 juin au 5 juillet 2023",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à l'accélération de la reconstruction des bâtiments dégradés ou démolis au cours des violences urbaines survenues du 27 juin au 5 juillet 2023",
       "scrutin_date": "2023-07-17",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-333.html",
       "dossier_ref": "72732",
@@ -41153,7 +41681,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-332",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à renforcer l'accompagnement des élus locaux dans la mise en uvre de la lutte contre l'artificialisation des sols",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à renforcer l'accompagnement des élus locaux dans la mise en œuvre de la lutte contre l'artificialisation des sols",
       "scrutin_date": "2023-07-12",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-332.html",
       "dossier_ref": "70724",
@@ -41435,7 +41963,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-323",
-      "scrutin_titre": "sur l'article 6 constituant l'ensemble du projet de loi de règlement du budget et dapprobation des comptes de lannée 2021",
+      "scrutin_titre": "sur l'article 6 constituant l'ensemble du projet de loi de règlement du budget et d’approbation des comptes de l’année 2021",
       "scrutin_date": "2023-07-02",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-323.html",
       "dossier_ref": "71928",
@@ -41576,7 +42104,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-324",
-      "scrutin_titre": "sur l'article 7 constituant l'ensemble du projet de loi de règlement du budget et dapprobation des comptes de lannée 2022",
+      "scrutin_titre": "sur l'article 7 constituant l'ensemble du projet de loi de règlement du budget et d’approbation des comptes de l’année 2022",
       "scrutin_date": "2023-07-02",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-324.html",
       "dossier_ref": "71929",
@@ -41717,7 +42245,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-321",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
       "scrutin_date": "2023-06-28",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-321.html",
       "dossier_ref": "71802",
@@ -41858,7 +42386,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-320",
-      "scrutin_titre": "sur lensemble du projet de loi relatif à lindustrie verte (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble du projet de loi relatif à l’industrie verte (procédure accélérée)",
       "scrutin_date": "2023-06-21",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-320.html",
       "dossier_ref": "72265",
@@ -41999,7 +42527,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-310",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à lutter contre le dumping social sur le transmanche et à renforcer la sécurité du transport maritime",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à lutter contre le dumping social sur le transmanche et à renforcer la sécurité du transport maritime",
       "scrutin_date": "2023-06-20",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-310.html",
       "dossier_ref": "71684",
@@ -42281,7 +42809,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-306",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à renforcer la protection des mineurs et l'honorabilité dans le sport",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à renforcer la protection des mineurs et l'honorabilité dans le sport",
       "scrutin_date": "2023-06-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-306.html",
       "dossier_ref": "70942",
@@ -42704,7 +43232,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-302",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à revaloriser le métier de secrétaire de mairie (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à revaloriser le métier de secrétaire de mairie (procédure accélérée)",
       "scrutin_date": "2023-06-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-302.html",
       "dossier_ref": "72103",
@@ -42845,7 +43373,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-303",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite",
       "scrutin_date": "2023-06-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-303.html",
       "dossier_ref": "70242",
@@ -42986,7 +43514,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-300",
-      "scrutin_titre": "sur lensemble du projet de loi d'orientation et de programmation du ministère de la justice 2023-2027 (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble du projet de loi d'orientation et de programmation du ministère de la justice 2023-2027 (procédure accélérée)",
       "scrutin_date": "2023-06-12",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-300.html",
       "dossier_ref": "72123",
@@ -43127,7 +43655,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-301",
-      "scrutin_titre": "sur lensemble du projet de loi organique relatif à l'ouverture, la modernisation et la responsabilité du corps judiciaire (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble du projet de loi organique relatif à l'ouverture, la modernisation et la responsabilité du corps judiciaire (procédure accélérée)",
       "scrutin_date": "2023-06-12",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-301.html",
       "dossier_ref": "72124",
@@ -43409,7 +43937,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-293",
-      "scrutin_titre": "sur lensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à encadrer l'influence commerciale et à lutter contre les dérives des influenceurs sur les réseaux sociaux",
+      "scrutin_titre": "sur l’ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à encadrer l'influence commerciale et à lutter contre les dérives des influenceurs sur les réseaux sociaux",
       "scrutin_date": "2023-05-31",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-293.html",
       "dossier_ref": "71624",
@@ -43550,7 +44078,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-294",
-      "scrutin_titre": "sur lensemble de la proposition de résolution en application de l'article 34-1 de la Constitution, visant à interdire l'importation de produits issus du travail forcé de la population ouïghoure en République populaire de Chine",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution en application de l'article 34-1 de la Constitution, visant à interdire l'importation de produits issus du travail forcé de la population ouïghoure en République populaire de Chine",
       "scrutin_date": "2023-05-31",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-294.html",
       "dossier_ref": "70943",
@@ -44255,7 +44783,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-280",
-      "scrutin_titre": "sur lensemble de la proposition de loi, adoptée par l'Assemblée nationale, visant à favoriser laccompagnement des couples confrontés à une fausse couche",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi, adoptée par l'Assemblée nationale, visant à favoriser l’accompagnement des couples confrontés à une fausse couche",
       "scrutin_date": "2023-05-03",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-280.html",
       "dossier_ref": "70976",
@@ -44537,7 +45065,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-272",
-      "scrutin_titre": "sur lensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, exprimant la gratitude et la reconnaissance du Sénat aux membres des forces de l'ordre déployées sur tout le territoire national",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, exprimant la gratitude et la reconnaissance du Sénat aux membres des forces de l'ordre déployées sur tout le territoire national",
       "scrutin_date": "2023-04-11",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-272.html",
       "dossier_ref": "71743",
@@ -44819,7 +45347,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-271",
-      "scrutin_titre": "sur lensemble de la proposition de loi pour une école de la liberté, de l'égalité des chances et de la laïcité",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi pour une école de la liberté, de l'égalité des chances et de la laïcité",
       "scrutin_date": "2023-04-10",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-271.html",
       "dossier_ref": "71202",
@@ -46088,7 +46616,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-250",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique visant à permettre à Saint-Barthélemy de participer à l'exercice de compétences de l'État",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique visant à permettre à Saint-Barthélemy de participer à l'exercice de compétences de l'État",
       "scrutin_date": "2023-03-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-250.html",
       "dossier_ref": "70203",
@@ -46229,7 +46757,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-201",
-      "scrutin_titre": "sur l'ensemble de la première partie du projet de loi de financement rectificative de la sécurité sociale, dont le Sénat est saisi en application de larticle 47-1, alinéa 2, de la Constitution, pour 2023",
+      "scrutin_titre": "sur l'ensemble de la première partie du projet de loi de financement rectificative de la sécurité sociale, dont le Sénat est saisi en application de l’article 47-1, alinéa 2, de la Constitution, pour 2023",
       "scrutin_date": "2023-03-06",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-201.html",
       "dossier_ref": "71042",
@@ -47921,7 +48449,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-115",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à régulariser le PLUi de la Communauté de communes du Bas Chablais",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à régulariser le PLUi de la Communauté de communes du Bas Chablais",
       "scrutin_date": "2023-01-30",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-115.html",
       "dossier_ref": "70124",
@@ -48203,7 +48731,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-109",
-      "scrutin_titre": "sur lensemble de la proposition de résolution, en application de larticle 34-1 de la Constitution, proposant au Gouvernement de sortir le système électrique des mécanismes concurrentiels",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution, en application de l’article 34-1 de la Constitution, proposant au Gouvernement de sortir le système électrique des mécanismes concurrentiels",
       "scrutin_date": "2023-01-11",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-109.html",
       "dossier_ref": "70642",
@@ -48344,7 +48872,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-107",
-      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi dorientation et de programmation du ministère de lintérieur",
+      "scrutin_titre": "sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi d’orientation et de programmation du ministère de l’intérieur",
       "scrutin_date": "2022-12-13",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-107.html",
       "dossier_ref": "69948",
@@ -49895,7 +50423,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-53",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à permettre aux assemblées délus et aux différentes associations d'élus de se constituer partie civile pour soutenir pleinement, au pénal, une personne investie dun mandat électif public victime d'agression",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à permettre aux assemblées d’élus et aux différentes associations d'élus de se constituer partie civile pour soutenir pleinement, au pénal, une personne investie d’un mandat électif public victime d'agression",
       "scrutin_date": "2022-11-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-53.html",
       "dossier_ref": "69442",
@@ -50318,7 +50846,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2022-9",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à accompagner la mise en place de comités sociaux et économiques à La Poste",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à accompagner la mise en place de comités sociaux et économiques à La Poste",
       "scrutin_date": "2022-10-19",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2022/scr2022-9.html",
       "dossier_ref": "69944",
@@ -53561,7 +54089,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-94",
-      "scrutin_titre": "sur lensemble de la proposition de loi visant à faire évoluer la gouvernance de lAgence pour lenseignement français à létranger et à créer les instituts régionaux de formation (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi visant à faire évoluer la gouvernance de l’Agence pour l’enseignement français à l’étranger et à créer les instituts régionaux de formation (procédure accélérée)",
       "scrutin_date": "2022-01-26",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-94.html",
       "dossier_ref": "68625",
@@ -53843,7 +54371,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-93",
-      "scrutin_titre": "sur lensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, pour un accès plus juste, plus simple et plus transparent au marché de l'assurance emprunteur",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, pour un accès plus juste, plus simple et plus transparent au marché de l'assurance emprunteur",
       "scrutin_date": "2022-01-25",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-93.html",
       "dossier_ref": "68471",
@@ -53984,7 +54512,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-90",
-      "scrutin_titre": "sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, portant reconnaissance de la Nation envers les harkis et les autres personnes rapatriées dAlgérie anciennement de statut civil de droit local et réparation des préjudices subis par ceux&#8209;ci et leurs familles du fait de lindignité de leurs conditions daccueil et de vie dans certaines structures sur le territoire français",
+      "scrutin_titre": "sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, portant reconnaissance de la Nation envers les harkis et les autres personnes rapatriées d’Algérie anciennement de statut civil de droit local et réparation des préjudices subis par ceux&#8209;ci et leurs familles du fait de l’indignité de leurs conditions d’accueil et de vie dans certaines structures sur le territoire français",
       "scrutin_date": "2022-01-24",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-90.html",
       "dossier_ref": "68485",
@@ -54125,7 +54653,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-88",
-      "scrutin_titre": "sur lensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, visant à améliorer la protection des lanceurs d'alerte",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, visant à améliorer la protection des lanceurs d'alerte",
       "scrutin_date": "2022-01-19",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-88.html",
       "dossier_ref": "68047",
@@ -54266,7 +54794,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-89",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, visant à renforcer le rôle du Défenseur des droits en matière de signalement d'alerte",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, visant à renforcer le rôle du Défenseur des droits en matière de signalement d'alerte",
       "scrutin_date": "2022-01-19",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-89.html",
       "dossier_ref": "68002",
@@ -55253,7 +55781,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-58",
-      "scrutin_titre": "sur lensemble de la proposition de loi, adoptée par lAssemblée nationale, visant à assurer la revalorisation des pensions de retraites agricoles les plus faibles",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi, adoptée par l’Assemblée nationale, visant à assurer la revalorisation des pensions de retraites agricoles les plus faibles",
       "scrutin_date": "2021-12-08",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-58.html",
       "dossier_ref": "67587",
@@ -56522,7 +57050,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-43",
-      "scrutin_titre": "sur lensemble du projet de loi de finances rectificative, adopté par l'Assemblée nationale, pour 2021",
+      "scrutin_titre": "sur l’ensemble du projet de loi de finances rectificative, adopté par l'Assemblée nationale, pour 2021",
       "scrutin_date": "2021-11-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-43.html",
       "dossier_ref": "68502",
@@ -56804,7 +57332,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-41",
-      "scrutin_titre": "sur lensemble du projet de loi ratifiant les ordonnances prises sur le fondement de l'article 13 de la loi n° 2019-816 du 2 août 2019 relative aux compétences de la Collectivité européenne d'Alsace",
+      "scrutin_titre": "sur l’ensemble du projet de loi ratifiant les ordonnances prises sur le fondement de l'article 13 de la loi n° 2019-816 du 2 août 2019 relative aux compétences de la Collectivité européenne d'Alsace",
       "scrutin_date": "2021-11-15",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-41.html",
       "dossier_ref": "67945",
@@ -56945,7 +57473,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-21",
-      "scrutin_titre": "sur lensemble de la proposition de loi constitutionnelle garantissant le respect des principes de la démocratie représentative et de l'État de droit en cas de législation par ordonnance",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi constitutionnelle garantissant le respect des principes de la démocratie représentative et de l'État de droit en cas de législation par ordonnance",
       "scrutin_date": "2021-11-03",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-21.html",
       "dossier_ref": "68053",
@@ -57086,7 +57614,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2021-20",
-      "scrutin_titre": "sur lensemble de la proposition de loi, adoptée par lAssemblée nationale après engagement de la procédure accélérée, portant mesures durgence pour assurer la régulation de laccès au foncier agricole au travers de structures sociétaires",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi, adoptée par l’Assemblée nationale après engagement de la procédure accélérée, portant mesures d’urgence pour assurer la régulation de l’accès au foncier agricole au travers de structures sociétaires",
       "scrutin_date": "2021-11-02",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2021/scr2021-20.html",
       "dossier_ref": "67144",
@@ -58778,7 +59306,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2020-174",
-      "scrutin_titre": "sur lensemble de la proposition de loi organique, adoptée par lAssemblée nationale après engagement de la procédure accélérée, relative à la modernisation de la gestion des finances publiques",
+      "scrutin_titre": "sur l’ensemble de la proposition de loi organique, adoptée par l’Assemblée nationale après engagement de la procédure accélérée, relative à la modernisation de la gestion des finances publiques",
       "scrutin_date": "2021-09-26",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2020/scr2020-174.html",
       "dossier_ref": "67590",
@@ -60470,7 +60998,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2020-154",
-      "scrutin_titre": "sur lensemble du projet de loi, adopté par lAssemblée nationale après engagement de la procédure accélérée, relatif à la prévention dactes de terrorisme et au renseignement",
+      "scrutin_titre": "sur l’ensemble du projet de loi, adopté par l’Assemblée nationale après engagement de la procédure accélérée, relatif à la prévention d’actes de terrorisme et au renseignement",
       "scrutin_date": "2021-06-28",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2020/scr2020-154.html",
       "dossier_ref": "67542",
@@ -61739,7 +62267,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2020-115",
-      "scrutin_titre": "sur lensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, invitant le Gouvernement à envisager la poursuite de la procédure de ratification du CETA",
+      "scrutin_titre": "sur l’ensemble de la proposition de résolution, en application de l'article 34-1 de la Constitution, invitant le Gouvernement à envisager la poursuite de la procédure de ratification du CETA",
       "scrutin_date": "2021-04-14",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2020/scr2020-115.html",
       "dossier_ref": "66742",
@@ -65756,7 +66284,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2020-14",
-      "scrutin_titre": "sur l'ensemble du projet de loi organique relatif à la simplification des expérimentations mises en uvre sur le fondement du quatrième alinéa de l'article 72 de la Constitution (procédure accélérée)",
+      "scrutin_titre": "sur l'ensemble du projet de loi organique relatif à la simplification des expérimentations mises en œuvre sur le fondement du quatrième alinéa de l'article 72 de la Constitution (procédure accélérée)",
       "scrutin_date": "2020-11-02",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2020/scr2020-14.html",
       "dossier_ref": "65286",
@@ -67310,7 +67838,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2019-124",
-      "scrutin_titre": "sur lensemble du projet de loi organique portant report des élections sénatoriales et des élections législatives partielles (procédure accélérée)",
+      "scrutin_titre": "sur l’ensemble du projet de loi organique portant report des élections sénatoriales et des élections législatives partielles (procédure accélérée)",
       "scrutin_date": "2020-06-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2019/scr2019-124.html",
       "dossier_ref": "64547",
@@ -67880,7 +68408,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2019-99",
-      "scrutin_titre": "sur lensemble du texte élaboré par la commission mixte paritaire sur le projet de loi de finances rectificative pour 2020 (2)",
+      "scrutin_titre": "sur l’ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi de finances rectificative pour 2020 (2)",
       "scrutin_date": "2020-04-22",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2019/scr2019-99.html",
       "dossier_ref": "63923",
@@ -76967,7 +77495,7 @@
     {
       "type": "scrutin",
       "scrutin_id": "2017-92",
-      "scrutin_titre": "sur l'ensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, relative à la mise en uvre du transfert des compétences eau et assainissement aux communautés de communes",
+      "scrutin_titre": "sur l'ensemble de la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, relative à la mise en œuvre du transfert des compétences eau et assainissement aux communautés de communes",
       "scrutin_date": "2018-04-16",
       "scrutin_url": "https://www.senat.fr/scrutin-public/2017/scr2017-92.html",
       "dossier_ref": "58642",
